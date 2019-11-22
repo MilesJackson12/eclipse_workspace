@@ -1,0 +1,1921 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CoopMessage>
+    <CoopRequest>
+        <requestID>localdevint:20191108.115128243.340</requestID>
+        <requestUser>sys</requestUser>
+        <requestTime>2019-11-08T11:51:28</requestTime>
+        <requesterName>PC</requesterName>
+        <requesterLanguage>en</requesterLanguage>
+        <requestJoliette>true</requestJoliette>
+        <requestDocprodVersion>P3-11</requestDocprodVersion>
+        <userGenerated>true</userGenerated>
+    </CoopRequest>
+    <CoopTxn>
+        <txnType>DocProd</txnType>
+        <txnObject>DocProdDocument_CG</txnObject>
+        <DocProdDocument_CG type="DocProdDocument_CG" publicID="">
+            <DocumentEffectiveDate_CG>2019-11-08</DocumentEffectiveDate_CG>
+            <DocumentType_CG>DEC</DocumentType_CG>
+            <PrintProvince_CG>QC</PrintProvince_CG>
+            <RegisteredMail_CG>false</RegisteredMail_CG>
+            <FirstPostConversionRenewal>false</FirstPostConversionRenewal>
+            <EFTFlag>true</EFTFlag>
+            <DocumentCode_CG>DEC</DocumentCode_CG>
+            <BatchInd_CG>true</BatchInd_CG>
+            <DocProdRequestID>localdevint:20191108.115128243.340</DocProdRequestID>
+            <OriginatingSystem_CG>PC</OriginatingSystem_CG>
+            <OriginatingSystem_CG_Name_TC>PC</OriginatingSystem_CG_Name_TC>
+            <RecipientType_CG>PH</RecipientType_CG>
+            <RecipientType_CG_Name_TC>Policy Holder</RecipientType_CG_Name_TC>
+            <UWCompany_CG>CGIC</UWCompany_CG>
+            <UWCompany_CG_Name_TC>Co-operators General Insurance Company</UWCompany_CG_Name_TC>
+            <BusinessMarketContext_CG>cgic</BusinessMarketContext_CG>
+            <BusinessMarketContext_CG_Name_TC>CGIC</BusinessMarketContext_CG_Name_TC>
+            <PrintLanguage_CG>en_CA</PrintLanguage_CG>
+            <PrintLanguage_CG_Name_TC>English (Canada)</PrintLanguage_CG_Name_TC>
+            <DeliveryType_CG>immediate-only</DeliveryType_CG>
+            <DeliveryType_CG_Name_TC>Immediate Return Only</DeliveryType_CG_Name_TC>
+            <PrintDefault_CG>mtc</PrintDefault_CG>
+            <PrintDefault_CG_Name_TC>Mail to client</PrintDefault_CG_Name_TC>
+            <EnablementRoute></EnablementRoute>
+            <CorrelationValue_CG>localdevint:20191108.115128243.340</CorrelationValue_CG>
+            <DOCUMENT_AUTHOR_USER_CG>CSP_Document_AuthorUser</DOCUMENT_AUTHOR_USER_CG>
+            <DOCUMENT_LANGUAGE_CG></DOCUMENT_LANGUAGE_CG>
+            <DOCUMENT_RECIPIENT_CG></DOCUMENT_RECIPIENT_CG>
+            <DOCUMENT_TYPE_CG>ApplicationGenerated</DOCUMENT_TYPE_CG>
+            <POLICYCENTER_ACCOUNT_NUMBER>2896427790</POLICYCENTER_ACCOUNT_NUMBER>
+            <Addressee type="Contact" publicID="kaka:12103">
+                <DisplayNames>
+                    <DisplayName OccupationType_Code_CG="SRV">MERCEDES DUPLICATE</DisplayName>
+                    <DisplayName>JILAUTO SIXTWONINE</DisplayName>
+                </DisplayNames>
+                <PrintInternalMarketingInd_CG>true</PrintInternalMarketingInd_CG>
+                <PrintExternalMarketingInd_CG>true</PrintExternalMarketingInd_CG>
+                <PrintPolicyDocumentsOnly_CG></PrintPolicyDocumentsOnly_CG>
+                <PrintOtherInsuranceProducts_CG></PrintOtherInsuranceProducts_CG>
+                <Address type="Address" publicID="kaka:41001">
+                    <AddressLine1>105 SILVERCREEK PKY N</AddressLine1>
+                    <BatchGeocode>false</BatchGeocode>
+                    <City>GUELPH</City>
+                    <PostalCode>N1H 6S4</PostalCode>
+                    <State>ON</State>
+                    <State_Name_TC>Ontario</State_Name_TC>
+                    <Country>CA</Country>
+                    <Country_Name_TC>Canada</Country_Name_TC>
+                </Address>
+            </Addressee>
+            <Recipient type="Contact" publicID="kaka:12103">
+                <DisplayNames>
+                    <DisplayName OccupationType_Code_CG="SRV">MERCEDES DUPLICATE</DisplayName>
+                    <DisplayName>JILAUTO SIXTWONINE</DisplayName>
+                </DisplayNames>
+                <PrintInternalMarketingInd_CG>true</PrintInternalMarketingInd_CG>
+                <PrintExternalMarketingInd_CG>true</PrintExternalMarketingInd_CG>
+                <PrintPolicyDocumentsOnly_CG></PrintPolicyDocumentsOnly_CG>
+                <PrintOtherInsuranceProducts_CG></PrintOtherInsuranceProducts_CG>
+                <Address type="Address" publicID="kaka:41001">
+                    <AddressLine1>105 SILVERCREEK PKY N</AddressLine1>
+                    <BatchGeocode>false</BatchGeocode>
+                    <City>GUELPH</City>
+                    <PostalCode>N1H 6S4</PostalCode>
+                    <State>ON</State>
+                    <State_Name_TC>Ontario</State_Name_TC>
+                    <Country>CA</Country>
+                    <Country_Name_TC>Canada</Country_Name_TC>
+                </Address>
+            </Recipient>
+            <ProducerContact>
+                <Name>MARTIN CRAIG:P80000</Name>
+                <AddressLine1>B-370 BOUL GREBER</AddressLine1>
+                <AddressLine2 />
+                <AddressLine3 />
+                <City>gatineau</City>
+                <PostalCode />
+                <State>QC</State>
+                <OfficePhone />
+                <PrimaryAgentOrBrokerNumber>P80000</PrimaryAgentOrBrokerNumber>
+                <ReturnAddress>AGENT</ReturnAddress>
+            </ProducerContact>
+            <ForwardDocumentsTo_CG />
+            <Forms>
+                <Form patternCode="NAG874_V1">
+                    <FormReferenceNumber>NAG874</FormReferenceNumber>
+                    <FormReferenceNumberEdition>Jun 16</FormReferenceNumberEdition>
+                    <FormPriority>-1</FormPriority>
+                    <Code>NAG874_V1</Code>
+                    <DisplayName>NAG874 - Jun 16 [NAG874_V1]</DisplayName>
+                    <GroupCode>NAG874</GroupCode>
+                    <FormData>
+                        <FormContent>
+                            <FormDetails>Jun 16</FormDetails>
+                            <FormInferredOn>Fri Nov 08 11:51:19 EST 2019</FormInferredOn>
+                            <FormsReferenceData ignoreAll="true" />
+                        </FormContent>
+                    </FormData>
+                    <FormNumber>NAG874</FormNumber>
+                </Form>
+            </Forms>
+            <Policy type="Policy" publicID="kaka:29201">
+                <IssueDate>2019-11-08</IssueDate>
+                <ProductCode>IRAuto_CG</ProductCode>
+                <DoNotArchive>false</DoNotArchive>
+                <DoNotPurge>false</DoNotPurge>
+                <LossHistoryType>nol</LossHistoryType>
+                <LossHistoryType_Name_TC>No Loss History</LossHistoryType_Name_TC>
+                <PrimaryLanguage>en_CA</PrimaryLanguage>
+                <PrimaryLanguage_Name_TC>English (Canada)</PrimaryLanguage_Name_TC>
+                <OrigIssueDate_CG>2020-12-01T00:01:00</OrigIssueDate_CG>
+                <LastUsedMiscEndorsementSeq_CG>0</LastUsedMiscEndorsementSeq_CG>
+                <DriverPolicy_CG>false</DriverPolicy_CG>
+                <Federated_CG>false</Federated_CG>
+                <DocumentsProducedBy_CG>local</DocumentsProducedBy_CG>
+                <DocumentsProducedBy_CG_Name_TC>Local</DocumentsProducedBy_CG_Name_TC>
+                <PolicyLanguage_CG>en_CA</PolicyLanguage_CG>
+                <PolicyLanguage_CG_Name_TC>English (Canada)</PolicyLanguage_CG_Name_TC>
+                <RenewalFrequency_CG>Annual</RenewalFrequency_CG>
+                <RenewalFrequency_CG_Name_TC>12 Months</RenewalFrequency_CG_Name_TC>
+                <ProducerCode type="ProducerCode" publicID="QAPCOD:1866">
+                    <Code>80000</Code>
+                    <Description>martin craig</Description>
+                    <ProducerStatus>Active</ProducerStatus>
+                    <ProducerStatus_Name_TC>Active</ProducerStatus_Name_TC>
+                    <DocProd_PrintableName>MARTIN CRAIG:P80000</DocProd_PrintableName>
+                    <Address type="Address" publicID="QAADD:1866">
+                        <AddressLine1>B-370 BOUL GREBER</AddressLine1>
+                        <BatchGeocode>false</BatchGeocode>
+                        <GeocodeStatus>none</GeocodeStatus>
+                        <GeocodeStatus_Name_TC>None</GeocodeStatus_Name_TC>
+                        <City>gatineau</City>
+                        <State>QC</State>
+                        <State_Name_TC>Quebec</State_Name_TC>
+                        <Country>CA</Country>
+                        <Country_Name_TC>Canada</Country_Name_TC>
+                        <AddressType_CG>civic</AddressType_CG>
+                        <AddressType_CG_Name_TC>Civic</AddressType_CG_Name_TC>
+                    </Address>
+                </ProducerCode>
+                <PolicyPeriod type="PolicyPeriod" publicID="kaka:41611">
+                    <AssignedRisk>false</AssignedRisk>
+                    <BranchName>Version #1</BranchName>
+                    <BranchNumber>1</BranchNumber>
+                    <DepositCollected>0</DepositCollected>
+                    <FailedOOSEValidation>false</FailedOOSEValidation>
+                    <FailedOOSEEvaluation>false</FailedOOSEEvaluation>
+                    <TermNumber>1</TermNumber>
+                    <PolicyNumber>4181401069</PolicyNumber>
+                    <PrimaryInsuredName>MERCEDES DUPLICATE</PrimaryInsuredName>
+                    <ValidQuote>true</ValidQuote>
+                    <WrittenDate>2019-11-08</WrittenDate>
+                    <OverrideBillingAllocation>false</OverrideBillingAllocation>
+                    <BillImmediatelyPercentage>0</BillImmediatelyPercentage>
+                    <WaiveDepositChange>false</WaiveDepositChange>
+                    <PaymentPlanID>CSP</PaymentPlanID>
+                    <PaymentPlanName>Staff Payroll</PaymentPlanName>
+                    <QuoteHidden>false</QuoteHidden>
+                    <EditLocked>false</EditLocked>
+                    <TotalPremiumRPT>2865</TotalPremiumRPT>
+                    <TotalCostRPT>2865</TotalCostRPT>
+                    <TransactionPremiumRPT>0</TransactionPremiumRPT>
+                    <TransactionCostRPT>0</TransactionCostRPT>
+                    <ValidReinsurance>true</ValidReinsurance>
+                    <RateAsOfDate>2019-11-08T11:44:47</RateAsOfDate>
+                    <DoNotPurge>false</DoNotPurge>
+                    <BaseState>ON</BaseState>
+                    <BaseState_Name_TC>Ontario</BaseState_Name_TC>
+                    <Status>Bound</Status>
+                    <Status_Name_TC>Bound</Status_Name_TC>
+                    <BillingMethod>DirectBill</BillingMethod>
+                    <BillingMethod_Name_TC>Direct bill</BillingMethod_Name_TC>
+                    <PeriodStart>2020-12-01T00:01:00</PeriodStart>
+                    <PeriodEnd>2021-12-01T00:01:00</PeriodEnd>
+                    <ModelDate>2019-11-08T11:51:19</ModelDate>
+                    <ModelNumber>2</ModelNumber>
+                    <PeriodId>41609</PeriodId>
+                    <CreateTime>2019-11-08T11:50:13</CreateTime>
+                    <UpdateTime>2019-11-08T11:51:19</UpdateTime>
+                    <SliceDate>2020-12-01T00:01:00</SliceDate>
+                    <SliceEndDate>2021-12-01T00:01:00</SliceEndDate>
+                    <EditEffectiveDate>2020-12-01T00:01:00</EditEffectiveDate>
+                    <TermType>Annual</TermType>
+                    <TermType_Name_TC>12 Months</TermType_Name_TC>
+                    <BusinessMarketContext>cgic</BusinessMarketContext>
+                    <BusinessMarketContext_Name_TC>CGIC</BusinessMarketContext_Name_TC>
+                    <MemberOwner_CG>false</MemberOwner_CG>
+                    <SelectedBillingAccount_CG>N/A</SelectedBillingAccount_CG>
+                    <OpenPreQuoteIssue_CG>false</OpenPreQuoteIssue_CG>
+                    <FirstRewalConversion_CG>false</FirstRewalConversion_CG>
+                    <RiskScore_CG>50</RiskScore_CG>
+                    <FuzzyHITSSearch_CG>false</FuzzyHITSSearch_CG>
+                    <CommOverriden_CG>false</CommOverriden_CG>
+                    <MultiPolicyDiscount_CG>false</MultiPolicyDiscount_CG>
+                    <MultiPolicyInterfaceSuccess_CG>true</MultiPolicyInterfaceSuccess_CG>
+                    <QuoteEffDate_CG>2019-11-08T11:50:20</QuoteEffDate_CG>
+                    <UWChangeRequested_CG>false</UWChangeRequested_CG>
+                    <BrokerRequest_CG>false</BrokerRequest_CG>
+                    <BrokerCreditScore_CG>false</BrokerCreditScore_CG>
+                    <BillingMethodOverridden_CG>true</BillingMethodOverridden_CG>
+                    <LiabilityClaimCount_CG>0</LiabilityClaimCount_CG>
+                    <OtherClaimCount_CG>0</OtherClaimCount_CG>
+                    <ScheduledArticlesClaimCount_CG>0</ScheduledArticlesClaimCount_CG>
+                    <TravelTrailerClaimCount_CG>0</TravelTrailerClaimCount_CG>
+                    <WatercraftClaimCount_CG>0</WatercraftClaimCount_CG>
+                    <RecheckPaymentInfo_CG>false</RecheckPaymentInfo_CG>
+                    <OriginalRenewalShell_CG>false</OriginalRenewalShell_CG>
+                    <OverrideMandatoryFields_CG>false</OverrideMandatoryFields_CG>
+                    <OriginalPortalShell_CG>false</OriginalPortalShell_CG>
+                    <CappingFactorRecalculated_CG>false</CappingFactorRecalculated_CG>
+                    <UWApproval_CG>None</UWApproval_CG>
+                    <UWApproval_CG_Name_TC />
+                    <UnderwritingRequested_CG>none</UnderwritingRequested_CG>
+                    <UnderwritingRequested_CG_Name_TC>None</UnderwritingRequested_CG_Name_TC>
+                    <TermType_CG>Annual</TermType_CG>
+                    <TermType_CG_Name_TC>12 Months</TermType_CG_Name_TC>
+                    <PrintDefault_CG>mtc</PrintDefault_CG>
+                    <PrintDefault_CG_Name_TC>Mail to client</PrintDefault_CG_Name_TC>
+                    <RATING_ENGINE_CONTEXT>guidewire</RATING_ENGINE_CONTEXT>
+                    <DiffLabels />
+                    <DiffTree />
+                    <Job type="PolicyChange" publicID="kaka:40611">
+                        <CloseDate>2019-11-08T11:51:19</CloseDate>
+                        <Description>Insured</Description>
+                        <JobNumber>1148275</JobNumber>
+                        <PrimaryInsuredName>MERCEDES DUPLICATE</PrimaryInsuredName>
+                        <SideBySide>false</SideBySide>
+                        <PurgeStatus>Unknown</PurgeStatus>
+                        <PurgeStatus_Name_TC>Unknown</PurgeStatus_Name_TC>
+                        <Source_CG>insured</Source_CG>
+                        <Source_CG_Name_TC>Insured</Source_CG_Name_TC>
+                        <PrintRedirectionType_CG>immediate-only</PrintRedirectionType_CG>
+                        <PrintRedirectionType_CG_Name_TC>Immediate Return Only</PrintRedirectionType_CG_Name_TC>
+                    </Job>
+                    <ProducerCode type="ProducerCode" publicID="QAPCOD:1866">
+                        <Code>80000</Code>
+                        <Description>martin craig</Description>
+                        <ProducerStatus>Active</ProducerStatus>
+                        <ProducerStatus_Name_TC>Active</ProducerStatus_Name_TC>
+                        <DocProd_PrintableName>MARTIN CRAIG:P80000</DocProd_PrintableName>
+                        <Address type="Address" publicID="QAADD:1866">
+                            <AddressLine1>B-370 BOUL GREBER</AddressLine1>
+                            <BatchGeocode>false</BatchGeocode>
+                            <GeocodeStatus>none</GeocodeStatus>
+                            <GeocodeStatus_Name_TC>None</GeocodeStatus_Name_TC>
+                            <City>gatineau</City>
+                            <State>QC</State>
+                            <State_Name_TC>Quebec</State_Name_TC>
+                            <Country>CA</Country>
+                            <Country_Name_TC>Canada</Country_Name_TC>
+                            <AddressType_CG>civic</AddressType_CG>
+                            <AddressType_CG_Name_TC>Civic</AddressType_CG_Name_TC>
+                        </Address>
+                    </ProducerCode>
+                    <LineSummary>
+                        <IRAutoLine_CG>
+                            <Count>17</Count>
+                            <Clause pattern="covIRMedRehabAttR16">Medical, Rehabilitation &amp; Attendant Care Limit ($130,000)</Clause>
+                            <Clause pattern="covIROptionalCatastrophicImpairment">Optional Catastrophic Impairment ($1,000,000)</Clause>
+                            <Clause pattern="covIRAccidentForgiveness">Accident Forgiveness Endorsement</Clause>
+                            <Clause pattern="covIRMedRehabAttendantR16">Medical, Rehabilitation &amp; Attendant Care Benefits ($1,000,000)</Clause>
+                            <Clause pattern="covIRDeathFuneral">Death and Funeral Benefits</Clause>
+                            <Clause pattern="covIRIncomeReplace">Income Replacement Benefit</Clause>
+                            <Clause pattern="covIRIndexation">Indexation (Consumer Price Index)</Clause>
+                            <Clause pattern="covIRCaregiver">Caregiver, Housekeeping and Home Maintenance Benefits</Clause>
+                            <Clause pattern="covIRDependantCare">Dependant Care Benefit</Clause>
+                            <Clause pattern="covIRDCPD">Direct Compensation - Property Damage</Clause>
+                            <Clause pattern="covIRCollision">Collision</Clause>
+                            <Clause pattern="covIRUninsuredAuto">Uninsured Automobile</Clause>
+                            <Clause pattern="covIRAccidentBenefits">Accident Benefits</Clause>
+                            <Clause pattern="covIRComprehensive">Comprehensive</Clause>
+                            <Clause pattern="covIRFamilyProtection_ON">44R - Family Protection Coverage</Clause>
+                            <Clause pattern="covIRLiability">Liability</Clause>
+                            <Clause pattern="covIRLossOfUse_ON">20 - Coverage for Transportation Replacement</Clause>
+                        </IRAutoLine_CG>
+                    </LineSummary>
+                    <ContainsNewfoundlandInsuredItem>false</ContainsNewfoundlandInsuredItem>
+                    <ContainsABQCBCItem>false</ContainsABQCBCItem>
+                    <NLSaleOfInsurance>false</NLSaleOfInsurance>
+                    <InsuredYears>0</InsuredYears>
+                    <OneClaimInYears>5</OneClaimInYears>
+                    <Harmonized>false</Harmonized>
+                    <InsuredItems>
+                        <Vehicle_CG type="Vehicle_CG" publicID="kaka:51918" fixedID="51916">
+                            <VehicleNum_CG>1</VehicleNum_CG>
+                            <Make_CG>CHEVROLET TRUCK/VAN</Make_CG>
+                            <VehicleCode_CG>575100</VehicleCode_CG>
+                            <Model_CG>EXPRESS 1500 CARGO VAN AWD</Model_CG>
+                            <VIN_CG>1GCFH154X91734852</VIN_CG>
+                            <ModifiedCustomized_CG>false</ModifiedCustomized_CG>
+                            <Year_CG>2009</Year_CG>
+                            <AnnualMileage_CG>15000</AnnualMileage_CG>
+                            <NonFactElectricEquip_CG>false</NonFactElectricEquip_CG>
+                            <PercentDrivenUS_CG>0</PercentDrivenUS_CG>
+                            <PurchasePrice_CG>7800</PurchasePrice_CG>
+                            <PurchaseLeaseDate_CG>2020-12-01T00:00:00</PurchaseLeaseDate_CG>
+                            <AcquiredNew_CG>false</AcquiredNew_CG>
+                            <PercentBusinessUse_CG>80</PercentBusinessUse_CG>
+                            <CededIndicator_CG>false</CededIndicator_CG>
+                            <RSPEligible_CG>false</RSPEligible_CG>
+                            <PUPPOverride_CG>false</PUPPOverride_CG>
+                            <RSPScore_CG>0</RSPScore_CG>
+                            <ABRateGroup_CG>26</ABRateGroup_CG>
+                            <CollisionAPRateGroup_CG>22</CollisionAPRateGroup_CG>
+                            <CompSPRateGroup_CG>21</CompSPRateGroup_CG>
+                            <DCPDRateGroup_CG>16</DCPDRateGroup_CG>
+                            <VINValidated_CG>false</VINValidated_CG>
+                            <VehicleBranded_CG>false</VehicleBranded_CG>
+                            <TransportCapacity_CG>false</TransportCapacity_CG>
+                            <CarryExplosives_CG>false</CarryExplosives_CG>
+                            <CarryRadioactive_CG>false</CarryRadioactive_CG>
+                            <GaragedOutsideCanada_CG>false</GaragedOutsideCanada_CG>
+                            <TransportGoodsForComp_CG>false</TransportGoodsForComp_CG>
+                            <TransportPassForComp_CG>false</TransportPassForComp_CG>
+                            <RentedLeasedToOthers_CG>false</RentedLeasedToOthers_CG>
+                            <RightHandDriveVehicle_CG>false</RightHandDriveVehicle_CG>
+                            <VehSecondaryUse_CG>false</VehSecondaryUse_CG>
+                            <BusinessType_CG>Auto-629 test</BusinessType_CG>
+                            <ActualOwner_CG>false</ActualOwner_CG>
+                            <CompOnly_CG>false</CompOnly_CG>
+                            <LienOnVehicle_CG>false</LienOnVehicle_CG>
+                            <GaragedTerritory_CG>Guelph &amp; Cambridge</GaragedTerritory_CG>
+                            <GaragedPostalCode_CG>N1H 6S4</GaragedPostalCode_CG>
+                            <GaragedTerritoryCode_CG>31</GaragedTerritoryCode_CG>
+                            <OutsideProvinceUse_CG>false</OutsideProvinceUse_CG>
+                            <CommercialUse_CG>false</CommercialUse_CG>
+                            <StatTerritory_CG>706</StatTerritory_CG>
+                            <MachEquipMountAttachInd_CG>false</MachEquipMountAttachInd_CG>
+                            <VINVerified_CG>false</VINVerified_CG>
+                            <RateGroupDetail_CG>CLEAR</RateGroupDetail_CG>
+                            <RSPAutoQualify_CG>false</RSPAutoQualify_CG>
+                            <Latitude_CG>43.53747</Latitude_CG>
+                            <Longitude_CG>-80.27686</Longitude_CG>
+                            <Reinsurance_CG>false</Reinsurance_CG>
+                            <AnnualBusinessMileage_CG>12000</AnnualBusinessMileage_CG>
+                            <VRGCostUsed_CG>false</VRGCostUsed_CG>
+                            <VRGCostIsLastResort_CG>false</VRGCostIsLastResort_CG>
+                            <OriginalEffectiveDate_CG>2020-12-01T00:01:00</OriginalEffectiveDate_CG>
+                            <OriginalEffDateCurrentVeh_CG>2020-12-01T00:01:00</OriginalEffDateCurrentVeh_CG>
+                            <TrackMarkRequiredCOM_CG>false</TrackMarkRequiredCOM_CG>
+                            <TrackMarkRequiredPPV_CG>false</TrackMarkRequiredPPV_CG>
+                            <IbcBodyStyle_CG>CV</IbcBodyStyle_CG>
+                            <VehicleClassification_CG>personal</VehicleClassification_CG>
+                            <VehicleClassification_CG_Name_TC>Personal</VehicleClassification_CG_Name_TC>
+                            <VehicleType_CG>privatepassenger</VehicleType_CG>
+                            <VehicleType_CG_Name_TC>Private Passenger</VehicleType_CG_Name_TC>
+                            <BodyType_CG>cargovan</BodyType_CG>
+                            <BodyType_CG_Name_TC>Cargo Van</BodyType_CG_Name_TC>
+                            <EngineUnit_CG>cylinders</EngineUnit_CG>
+                            <EngineUnit_CG_Name_TC>Cylinders</EngineUnit_CG_Name_TC>
+                            <VehiclePrimaryUse_CG>business</VehiclePrimaryUse_CG>
+                            <VehiclePrimaryUse_CG_Name_TC>Business</VehiclePrimaryUse_CG_Name_TC>
+                            <FuelType_CG>Gasoline</FuelType_CG>
+                            <FuelType_CG_Name_TC>Gasoline</FuelType_CG_Name_TC>
+                            <VehicleOwnership_CG>Owned</VehicleOwnership_CG>
+                            <VehicleOwnership_CG_Name_TC>Owned</VehicleOwnership_CG_Name_TC>
+                            <VehicleRegistrationProvince_CG>ON</VehicleRegistrationProvince_CG>
+                            <VehicleRegistrationProvince_CG_Name_TC>Ontario</VehicleRegistrationProvince_CG_Name_TC>
+                            <IBCRateGroupType_CG>A</IBCRateGroupType_CG>
+                            <IBCRateGroupType_CG_Name_TC>CLEAR Individual Coverage</IBCRateGroupType_CG_Name_TC>
+                            <GeocodeStatus_CG>Postal_Code</GeocodeStatus_CG>
+                            <GeocodeStatus_CG_Name_TC>Postal Code</GeocodeStatus_CG_Name_TC>
+                            <VRGMethod_CG>CLEAR</VRGMethod_CG>
+                            <VRGMethod_CG_Name_TC>CLEAR</VRGMethod_CG_Name_TC>
+                            <RSPOverrideMode_CG>automatic</RSPOverrideMode_CG>
+                            <RSPOverrideMode_CG_Name_TC>None</RSPOverrideMode_CG_Name_TC>
+                            <VehicleRatingInputs_CG type="VehicleRatingInputs_CG" publicID="kaka:7215" fixedID="7213">
+                                <IbcFuel_CG>G</IbcFuel_CG>
+                                <IbcPrice_CG>37018</IbcPrice_CG>
+                                <VehicleDesUpdateTime_CG>2019-11-08T11:44:12</VehicleDesUpdateTime_CG>
+                                <EffectiveDate>2020-12-01T00:01:00</EffectiveDate>
+                                <ExpirationDate>2021-12-01T00:01:00</ExpirationDate>
+                            </VehicleRatingInputs_CG>
+                            <EffectiveDate>2020-12-01T00:01:00</EffectiveDate>
+                            <ExpirationDate>2021-12-01T00:01:00</ExpirationDate>
+                            <Harmonized>false</Harmonized>
+                            <VehicleTracking_CG>
+                                <TrackingNumber_CG>No.Previous.Tracking.Number</TrackingNumber_CG>
+                                <Type_CG />
+                                <Created />
+                            </VehicleTracking_CG>
+                            <PolicyVehicleNamedInsured type="Contact" publicID="kaka:13004">
+                                <DisplayNames>
+                                    <DisplayName OccupationType_Code_CG="ETU">JILAUTO SIXTWONINE</DisplayName>
+                                </DisplayNames>
+                                <PrintInternalMarketingInd_CG>true</PrintInternalMarketingInd_CG>
+                                <PrintExternalMarketingInd_CG>true</PrintExternalMarketingInd_CG>
+                                <PrintPolicyDocumentsOnly_CG />
+                                <PrintOtherInsuranceProducts_CG />
+                                <Address type="Address" publicID="kaka:42004">
+                                    <AddressLine1>36 COOKS RD</AddressLine1>
+                                    <BatchGeocode>false</BatchGeocode>
+                                    <City>SEGUIN</City>
+                                    <PostalCode>P2A 2W8</PostalCode>
+                                    <State>ON</State>
+                                    <State_Name_TC>Ontario</State_Name_TC>
+                                    <Country>CA</Country>
+                                    <Country_Name_TC>Canada</Country_Name_TC>
+                                </Address>
+                            </PolicyVehicleNamedInsured>
+                            <PolicyVehicleNamedInsured type="Contact" publicID="kaka:12103">
+                                <DisplayNames>
+                                    <DisplayName OccupationType_Code_CG="SRV">MERCEDES DUPLICATE</DisplayName>
+                                </DisplayNames>
+                                <PrintInternalMarketingInd_CG>true</PrintInternalMarketingInd_CG>
+                                <PrintExternalMarketingInd_CG>true</PrintExternalMarketingInd_CG>
+                                <PrintPolicyDocumentsOnly_CG />
+                                <PrintOtherInsuranceProducts_CG />
+                                <Address type="Address" publicID="kaka:41001">
+                                    <AddressLine1>105 SILVERCREEK PKY N</AddressLine1>
+                                    <BatchGeocode>false</BatchGeocode>
+                                    <City>GUELPH</City>
+                                    <PostalCode>N1H 6S4</PostalCode>
+                                    <State>ON</State>
+                                    <State_Name_TC>Ontario</State_Name_TC>
+                                    <Country>CA</Country>
+                                    <Country_Name_TC>Canada</Country_Name_TC>
+                                </Address>
+                            </PolicyVehicleNamedInsured>
+                            <VehicleDriver_CG type="VehicleDriver_CG" publicID="kaka:49534" fixedID="49530">
+                                <ClassCode_CG>019</ClassCode_CG>
+                                <PercentageDriven_CG>100</PercentageDriven_CG>
+                                <TimeLicensed_CG>3</TimeLicensed_CG>
+                                <YearsLicensed_CG>3</YearsLicensed_CG>
+                                <YearsClaimsFree_CG>2</YearsClaimsFree_CG>
+                                <firstChanceInd_CG>false</firstChanceInd_CG>
+                                <NewDriverCreditInd_CG>false</NewDriverCreditInd_CG>
+                                <AgeWhenLicensed_CG>19</AgeWhenLicensed_CG>
+                                <DriverAssignment_CG>principaldriver</DriverAssignment_CG>
+                                <DriverAssignment_CG_Name_TC>Principal Driver</DriverAssignment_CG_Name_TC>
+                                <EffectiveDate>2020-12-01T00:01:00</EffectiveDate>
+                                <ExpirationDate>2021-12-01T00:01:00</ExpirationDate>
+                                <PolicyDriver_CG type="PolicyDriver_CG" publicID="kaka:50369" fixedID="50357">
+                                    <InsuredSinceYear_CG>2999</InsuredSinceYear_CG>
+                                    <TaxExempt_CG>false</TaxExempt_CG>
+                                    <CustomerSince_CG>2019-11-08T00:00:00</CustomerSince_CG>
+                                    <OccupationType_CG>ETU</OccupationType_CG>
+                                    <OccupationType_CG_Name_TC>Student</OccupationType_CG_Name_TC>
+                                    <EffectiveDate>2020-12-01T00:01:00</EffectiveDate>
+                                    <ExpirationDate>2021-12-01T00:01:00</ExpirationDate>
+                                    <ChangeType>window</ChangeType>
+                                    <ChangeType_Name_TC>Window</ChangeType_Name_TC>
+                                    <RequestHITS_CG>false</RequestHITS_CG>
+                                    <OriginalEffectiveDate_CG>2020-12-01T00:01:00</OriginalEffectiveDate_CG>
+                                    <MultiDiscountApplies_CG>no</MultiDiscountApplies_CG>
+                                    <MultiDiscountApplies_CG_Name_TC>No</MultiDiscountApplies_CG_Name_TC>
+                                    <LossHistoryExists_CG>true</LossHistoryExists_CG>
+                                    <PriorPolicyExists_CG>true</PriorPolicyExists_CG>
+                                    <InexpDrvDiscDisqualifiedInd_CG>false</InexpDrvDiscDisqualifiedInd_CG>
+                                    <DriverAge_CG>22</DriverAge_CG>
+                                    <PolicyDriverMVR_CG type="PolicyDriverMVR_CG" publicID="kaka:44424" fixedID="44420">
+                                        <NumberDemeritSuspensions_CG>0</NumberDemeritSuspensions_CG>
+                                        <NumberAdminSuspensions_CG>0</NumberAdminSuspensions_CG>
+                                        <NumUnsatisfiedJudgementSusp_CG>0</NumUnsatisfiedJudgementSusp_CG>
+                                        <NumberMinorConvictions_CG>0</NumberMinorConvictions_CG>
+                                        <NumberMajorConvictions_CG>0</NumberMajorConvictions_CG>
+                                        <NumSeriousCriminalCodeConv_CG>0</NumSeriousCriminalCodeConv_CG>
+                                        <EffectiveDate>2020-12-01T00:01:00</EffectiveDate>
+                                        <ExpirationDate>2021-12-01T00:01:00</ExpirationDate>
+                                    </PolicyDriverMVR_CG>
+                                    <PolicyDriverLicClass_CG type="PolicyDriverLicClass_CG" publicID="kaka:41425" fixedID="41421">
+                                        <LicenceClassEffDate_CG>2017-06-25T00:00:00</LicenceClassEffDate_CG>
+                                        <LicenceClass_CG>G</LicenceClass_CG>
+                                        <LicenceClass_CG_Name_TC>G</LicenceClass_CG_Name_TC>
+                                        <EffectiveDate>2020-12-01T00:01:00</EffectiveDate>
+                                        <ExpirationDate>2021-12-01T00:01:00</ExpirationDate>
+                                    </PolicyDriverLicClass_CG>
+                                    <LossHistoryEntry_CG type="LossHistoryEntry_CG" publicID="kaka:27236" fixedID="27232">
+                                        <AppliedIndicator_CG>true</AppliedIndicator_CG>
+                                        <OccurrenceDate_CG>2017-12-25T00:00:00</OccurrenceDate_CG>
+                                        <Source_CG>manual</Source_CG>
+                                        <Source_CG_Name_TC>Manual</Source_CG_Name_TC>
+                                        <LossKind_CG>single</LossKind_CG>
+                                        <LossKind_CG_Name_TC>Single-vehicle</LossKind_CG_Name_TC>
+                                        <ClaimsForgiveness_CG>yes</ClaimsForgiveness_CG>
+                                        <ClaimsForgiveness_CG_Name_TC>Yes</ClaimsForgiveness_CG_Name_TC>
+                                        <LossStatus_CG>Closed</LossStatus_CG>
+                                        <LossStatus_CG_Name_TC>Closed</LossStatus_CG_Name_TC>
+                                        <RatingImpacted_CG>Yes</RatingImpacted_CG>
+                                        <RatingImpacted_CG_Name_TC>Yes</RatingImpacted_CG_Name_TC>
+                                        <LossHistoryPeriodExp_CG type="LossHistoryPeriodExp_CG" publicID="kaka:24767" fixedID="24761">
+                                            <ApplyToDerived_CG>false</ApplyToDerived_CG>
+                                            <LossReserve_CG>0</LossReserve_CG>
+                                            <LegalReserve_CG>0</LegalReserve_CG>
+                                            <LegalPaid_CG>0</LegalPaid_CG>
+                                            <OtherExpenseReserve_CG>0</OtherExpenseReserve_CG>
+                                            <OtherExpensePaid_CG>0</OtherExpensePaid_CG>
+                                            <Coverage_CG>COLL</Coverage_CG>
+                                            <Coverage_CG_Name_TC>Collision</Coverage_CG_Name_TC>
+                                            <EffectiveDate>2020-12-01T00:01:00</EffectiveDate>
+                                            <ExpirationDate>2021-12-01T00:01:00</ExpirationDate>
+                                        </LossHistoryPeriodExp_CG>
+                                        <AssignedLoss_CG type="AssignedLoss_CG" publicID="kaka:6034" fixedID="6034">
+                                            <CountedForSurcharge_CG>true</CountedForSurcharge_CG>
+                                            <AccAssExpirationDate_CG>2027-12-25T00:00:00</AccAssExpirationDate_CG>
+                                            <EffectiveDate>2020-12-01T00:01:00</EffectiveDate>
+                                            <ExpirationDate>2021-12-01T00:01:00</ExpirationDate>
+                                            <ChangeType>slice</ChangeType>
+                                            <ChangeType_Name_TC>Slice</ChangeType_Name_TC>
+                                        </AssignedLoss_CG>
+                                        <EffectiveDate>2020-12-01T00:01:00</EffectiveDate>
+                                        <ExpirationDate>2021-12-01T00:01:00</ExpirationDate>
+                                        <LossNew_CG>false</LossNew_CG>
+                                        <VehicleType_CG>privatepassenger</VehicleType_CG>
+                                        <VehicleType_CG_Name_TC>Private Passenger</VehicleType_CG_Name_TC>
+                                        <Fault_CG>atfaultchargeable</Fault_CG>
+                                        <Fault_CG_Name_TC>At fault</Fault_CG_Name_TC>
+                                        <LossHistoryEntry type="LossHistoryEntry" publicID="kaka:6101">
+                                            <OccurrenceDate>2017-12-25T00:00:00</OccurrenceDate>
+                                            <LossStatus>Closed</LossStatus>
+                                            <LossStatus_Name_TC>Closed</LossStatus_Name_TC>
+                                            <AppliedIndicator_CG>true</AppliedIndicator_CG>
+                                            <Source_CG>manual</Source_CG>
+                                            <Source_CG_Name_TC>Manual</Source_CG_Name_TC>
+                                            <LossKind_CG>single</LossKind_CG>
+                                            <LossKind_CG_Name_TC>Single-vehicle</LossKind_CG_Name_TC>
+                                            <RatingImpacted_CG>Yes</RatingImpacted_CG>
+                                            <RatingImpacted_CG_Name_TC>Yes</RatingImpacted_CG_Name_TC>
+                                            <VehicleType_CG>privatepassenger</VehicleType_CG>
+                                            <VehicleType_CG_Name_TC>Private Passenger</VehicleType_CG_Name_TC>
+                                            <Fault_CG>atfaultchargeable</Fault_CG>
+                                            <Fault_CG_Name_TC>At fault</Fault_CG_Name_TC>
+                                        </LossHistoryEntry>
+                                    </LossHistoryEntry_CG>
+                                    <DriverAge>22</DriverAge>
+                                    <DriverTrainingAuto_CG />
+                                    <DrvrTrngMotorcycle_CG />
+                                    <Contact type="Contact" publicID="kaka:13004">
+                                        <DisplayNames>
+                                            <DisplayName OccupationType_Code_CG="ETU">JILAUTO SIXTWONINE</DisplayName>
+                                        </DisplayNames>
+                                        <PrintInternalMarketingInd_CG>true</PrintInternalMarketingInd_CG>
+                                        <PrintExternalMarketingInd_CG>true</PrintExternalMarketingInd_CG>
+                                        <PrintPolicyDocumentsOnly_CG />
+                                        <PrintOtherInsuranceProducts_CG />
+                                        <Address type="Address" publicID="kaka:42004">
+                                            <AddressLine1>36 COOKS RD</AddressLine1>
+                                            <BatchGeocode>false</BatchGeocode>
+                                            <City>SEGUIN</City>
+                                            <PostalCode>P2A 2W8</PostalCode>
+                                            <State>ON</State>
+                                            <State_Name_TC>Ontario</State_Name_TC>
+                                            <Country>CA</Country>
+                                            <Country_Name_TC>Canada</Country_Name_TC>
+                                        </Address>
+                                        <MaritalStatus>S</MaritalStatus>
+                                        <MaritalStatus_Name_TC>Single</MaritalStatus_Name_TC>
+                                    </Contact>
+                                </PolicyDriver_CG>
+                            </VehicleDriver_CG>
+                            <Coverable type="IRAutoVehicle_CG" publicID="kaka:51618" fixedID="51616">
+                                <ReferenceDateInternal>2020-12-01T00:00:00</ReferenceDateInternal>
+                                <NumberOfPPVehicles_CG>1</NumberOfPPVehicles_CG>
+                                <NumberOfPPOperators_CG>1</NumberOfPPOperators_CG>
+                                <HighestRatedPosition_CG>1</HighestRatedPosition_CG>
+                                <MatchingAccAssVehTypeCd_CG>P</MatchingAccAssVehTypeCd_CG>
+                                <RateDate_CG>2019-11-08T11:44:48</RateDate_CG>
+                                <AccidentForgivenessEligible_CG>false</AccidentForgivenessEligible_CG>
+                                <RateBookCode_CG>ir_on_cgic_ratebook</RateBookCode_CG>
+                                <RateBookEditon_CG>R49.5</RateBookEditon_CG>
+                                <NewItemThisTerm_CG>true</NewItemThisTerm_CG>
+                                <RatingStream_CG>privatepassenger</RatingStream_CG>
+                                <RatingStream_CG_Name_TC>Private Passenger</RatingStream_CG_Name_TC>
+                                <InitialCoveragesCreated>true</InitialCoveragesCreated>
+                                <InitialExclusionsCreated>true</InitialExclusionsCreated>
+                                <InitialConditionsCreated>true</InitialConditionsCreated>
+                                <CoverableReferenceDate>2020-12-01T00:00:00</CoverableReferenceDate>
+                                <EffectiveDate>2020-12-01T00:01:00</EffectiveDate>
+                                <ExpirationDate>2021-12-01T00:01:00</ExpirationDate>
+                            </Coverable>
+                            <CoverageGroup grouping="IRsectionLiability" order="1100" displayOrder="1100">
+                                <PrintCoverage patternCode="covIRLiability" grouping="IRsectionLiability" DisplayOrder="1050" type="IRAutoVehicleCov_CG" publicID="kaka:48021" fixedID="47998">
+                                    <PrintCode>covIRLiability</PrintCode>
+                                    <PrintSettlementOption patternCode="0">0</PrintSettlementOption>
+                                    <PrintCoinsurance patternCode="no-print">0</PrintCoinsurance>
+                                    <PrintLimit patternCode="IRLiabilityLimit">2000000</PrintLimit>
+                                    <CovReferenceDate>2020-12-01T00:00:00</CovReferenceDate>
+                                    <PrintRefundablePremium>Null</PrintRefundablePremium>
+                                    <PerOnceOccurance>false</PerOnceOccurance>
+                                    <PrintPremium patternCode="Premium">1473.00</PrintPremium>
+                                    <PrintPremiumDetails>
+                                        <CovPremLineItem>
+                                            <DriverAssignment_CG>principaldriver</DriverAssignment_CG>
+                                            <CovCode>covIRPropertyDamage</CovCode>
+                                            <AnnualizedPremium>13</AnnualizedPremium>
+                                            <ActualAmount>13</ActualAmount>
+                                            <FullTermPremium>13</FullTermPremium>
+                                        </CovPremLineItem>
+                                        <CovPremLineItem>
+                                            <DriverAssignment_CG>principaldriver</DriverAssignment_CG>
+                                            <CovCode>covIRLiability</CovCode>
+                                            <AnnualizedPremium>1460</AnnualizedPremium>
+                                            <ActualAmount>1460</ActualAmount>
+                                            <FullTermPremium>1460</FullTermPremium>
+                                        </CovPremLineItem>
+                                    </PrintPremiumDetails>
+                                    <PrintExtension>
+                                        <PrintCode>IRLiabilityBI</PrintCode>
+                                        <Value>1</Value>
+                                        <Code>included</Code>
+                                        <DebugPatternCode>IRLiabilityBI</DebugPatternCode>
+                                    </PrintExtension>
+                                    <PrintExtension>
+                                        <PrintCode>IRLiabilityPD</PrintCode>
+                                        <Value>1</Value>
+                                        <Code>included</Code>
+                                        <DebugPatternCode>IRLiabilityPD</DebugPatternCode>
+                                    </PrintExtension>
+                                </PrintCoverage>
+                            </CoverageGroup>
+                            <CoverageGroup grouping="IRsectionAccidentBenefits" order="1300" displayOrder="1300">
+                                <PrintCoverage patternCode="covIRAccidentBenefits" grouping="IRsectionAccidentBenefits" DisplayOrder="1100" type="IRAutoVehicleCov_CG" publicID="kaka:48023" fixedID="48000">
+                                    <PrintCode>covIRAccidentBenefits</PrintCode>
+                                    <PrintSettlementOption patternCode="0">0</PrintSettlementOption>
+                                    <PrintCoinsurance patternCode="no-print">0</PrintCoinsurance>
+                                    <PrintLimit patternCode="no-print">0</PrintLimit>
+                                    <CovReferenceDate>2020-12-01T00:00:00</CovReferenceDate>
+                                    <PrintRefundablePremium>Null</PrintRefundablePremium>
+                                    <PerOnceOccurance>false</PerOnceOccurance>
+                                    <PrintPremium patternCode="Premium">428.00</PrintPremium>
+                                    <PrintPremiumDetails>
+                                        <CovPremLineItem>
+                                            <DriverAssignment_CG>principaldriver</DriverAssignment_CG>
+                                            <CovCode>covIRAccidentBenefits</CovCode>
+                                            <AnnualizedPremium>428</AnnualizedPremium>
+                                            <ActualAmount>428</ActualAmount>
+                                            <FullTermPremium>428</FullTermPremium>
+                                        </CovPremLineItem>
+                                    </PrintPremiumDetails>
+                                </PrintCoverage>
+                            </CoverageGroup>
+                            <CoverageGroup grouping="IRsectionUninsuredAuto" order="1400" displayOrder="1400">
+                                <PrintCoverage patternCode="covIRUninsuredAuto" grouping="IRsectionUninsuredAuto" DisplayOrder="1100" type="IRAutoVehicleCov_CG" publicID="kaka:48024" fixedID="48001">
+                                    <PrintCode>covIRUninsuredAuto</PrintCode>
+                                    <PrintSettlementOption patternCode="0">0</PrintSettlementOption>
+                                    <PrintCoinsurance patternCode="no-print">0</PrintCoinsurance>
+                                    <PrintLimit patternCode="no-print">0</PrintLimit>
+                                    <CovReferenceDate>2020-12-01T00:00:00</CovReferenceDate>
+                                    <PrintRefundablePremium>Null</PrintRefundablePremium>
+                                    <PerOnceOccurance>false</PerOnceOccurance>
+                                    <PrintPremium patternCode="Premium">11.00</PrintPremium>
+                                    <PrintPremiumDetails>
+                                        <CovPremLineItem>
+                                            <DriverAssignment_CG>principaldriver</DriverAssignment_CG>
+                                            <CovCode>covIRUninsuredAuto</CovCode>
+                                            <AnnualizedPremium>11</AnnualizedPremium>
+                                            <ActualAmount>11</ActualAmount>
+                                            <FullTermPremium>11</FullTermPremium>
+                                        </CovPremLineItem>
+                                    </PrintPremiumDetails>
+                                </PrintCoverage>
+                            </CoverageGroup>
+                            <CoverageGroup grouping="IRsectionDCPD" order="1450" displayOrder="1450">
+                                <PrintCoverage patternCode="covIRDCPD" grouping="IRsectionDCPD" DisplayOrder="1100" type="IRAutoVehicleCov_CG" publicID="kaka:48022" fixedID="47999">
+                                    <PrintCode>covIRDCPD</PrintCode>
+                                    <PrintSettlementOption patternCode="0">0</PrintSettlementOption>
+                                    <PrintCoinsurance patternCode="no-print">0</PrintCoinsurance>
+                                    <PrintDeductible patternCode="IRDCPDDeductible">0</PrintDeductible>
+                                    <PrintLimit patternCode="no-print">0</PrintLimit>
+                                    <CovReferenceDate>2020-12-01T00:00:00</CovReferenceDate>
+                                    <PrintRefundablePremium>Null</PrintRefundablePremium>
+                                    <PerOnceOccurance>false</PerOnceOccurance>
+                                    <PrintPremium patternCode="Premium">300.00</PrintPremium>
+                                    <PrintPremiumDetails>
+                                        <CovPremLineItem>
+                                            <DriverAssignment_CG>principaldriver</DriverAssignment_CG>
+                                            <CovCode>covIRDCPD</CovCode>
+                                            <AnnualizedPremium>300</AnnualizedPremium>
+                                            <ActualAmount>300</ActualAmount>
+                                            <FullTermPremium>300</FullTermPremium>
+                                        </CovPremLineItem>
+                                    </PrintPremiumDetails>
+                                </PrintCoverage>
+                            </CoverageGroup>
+                            <CoverageGroup grouping="IRsectionLossorDamage" order="1600" displayOrder="1600">
+                                <PrintCoverage patternCode="covIRCollision" grouping="IRsectionLossorDamage" DisplayOrder="1100" type="IRAutoVehicleCov_CG" publicID="kaka:48025" fixedID="48002">
+                                    <PrintCode>covIRCollision</PrintCode>
+                                    <PrintSettlementOption patternCode="0">0</PrintSettlementOption>
+                                    <PrintCoinsurance patternCode="no-print">0</PrintCoinsurance>
+                                    <PrintDeductible patternCode="IRCollisionDeductible">500</PrintDeductible>
+                                    <PrintLimit patternCode="no-print">0</PrintLimit>
+                                    <CovReferenceDate>2020-12-01T00:00:00</CovReferenceDate>
+                                    <PrintRefundablePremium>Null</PrintRefundablePremium>
+                                    <PerOnceOccurance>false</PerOnceOccurance>
+                                    <PrintPremium patternCode="Premium">480.00</PrintPremium>
+                                    <PrintPremiumDetails>
+                                        <CovPremLineItem>
+                                            <DriverAssignment_CG>principaldriver</DriverAssignment_CG>
+                                            <CovCode>covIRCollision</CovCode>
+                                            <AnnualizedPremium>480</AnnualizedPremium>
+                                            <ActualAmount>480</ActualAmount>
+                                            <FullTermPremium>480</FullTermPremium>
+                                        </CovPremLineItem>
+                                    </PrintPremiumDetails>
+                                </PrintCoverage>
+                                <PrintCoverage patternCode="covIRComprehensive" grouping="IRsectionLossorDamage" DisplayOrder="1200" type="IRAutoVehicleCov_CG" publicID="kaka:48026" fixedID="48003">
+                                    <PrintCode>covIRComprehensive</PrintCode>
+                                    <PrintSettlementOption patternCode="0">0</PrintSettlementOption>
+                                    <PrintCoinsurance patternCode="no-print">0</PrintCoinsurance>
+                                    <PrintDeductible patternCode="IRComprehensiveDeductible">500</PrintDeductible>
+                                    <PrintLimit patternCode="no-print">0</PrintLimit>
+                                    <CovReferenceDate>2020-12-01T00:00:00</CovReferenceDate>
+                                    <PrintRefundablePremium>Null</PrintRefundablePremium>
+                                    <PerOnceOccurance>false</PerOnceOccurance>
+                                    <PrintPremium patternCode="Premium">102.00</PrintPremium>
+                                    <PrintPremiumDetails>
+                                        <CovPremLineItem>
+                                            <DriverAssignment_CG>principaldriver</DriverAssignment_CG>
+                                            <CovCode>covIRComprehensive</CovCode>
+                                            <AnnualizedPremium>102</AnnualizedPremium>
+                                            <ActualAmount>102</ActualAmount>
+                                            <FullTermPremium>102</FullTermPremium>
+                                        </CovPremLineItem>
+                                    </PrintPremiumDetails>
+                                </PrintCoverage>
+                            </CoverageGroup>
+                            <CoverageGroup grouping="IRsectionPolicyChgForms" order="1900" displayOrder="1900">
+                                <PrintCoverage patternCode="covIRFamilyProtection_ON" grouping="IRsectionPolicyChgForms" DisplayOrder="1000" type="IRAutoVehicleCov_CG" publicID="kaka:48027" fixedID="48004">
+                                    <PrintCode>covIRFamilyProtection_ON</PrintCode>
+                                    <PrintSettlementOption patternCode="0">0</PrintSettlementOption>
+                                    <PrintCoinsurance patternCode="no-print">0</PrintCoinsurance>
+                                    <PrintLimit patternCode="IRFamilyProtectionONLimit">2000000</PrintLimit>
+                                    <CovReferenceDate>2020-12-01T00:00:00</CovReferenceDate>
+                                    <PrintRefundablePremium>Null</PrintRefundablePremium>
+                                    <PerOnceOccurance>false</PerOnceOccurance>
+                                    <PrintPremium patternCode="Premium">23.00</PrintPremium>
+                                    <PrintPremiumDetails>
+                                        <CovPremLineItem>
+                                            <DriverAssignment_CG>principaldriver</DriverAssignment_CG>
+                                            <CovCode>covIRFamilyProtection_ON</CovCode>
+                                            <AnnualizedPremium>23</AnnualizedPremium>
+                                            <ActualAmount>23</ActualAmount>
+                                            <FullTermPremium>23</FullTermPremium>
+                                        </CovPremLineItem>
+                                    </PrintPremiumDetails>
+                                </PrintCoverage>
+                                <PrintCoverage patternCode="covIRLossOfUse_ON" grouping="IRsectionPolicyChgForms" DisplayOrder="3000" type="IRAutoVehicleCov_CG" publicID="kaka:48028" fixedID="48005">
+                                    <PrintCode>covIRLossOfUse_ON</PrintCode>
+                                    <PrintSettlementOption patternCode="0">0</PrintSettlementOption>
+                                    <PrintCoinsurance patternCode="no-print">0</PrintCoinsurance>
+                                    <PrintLimit patternCode="IRLossOfUseONLimit">1200</PrintLimit>
+                                    <CovReferenceDate>2020-12-01T00:00:00</CovReferenceDate>
+                                    <PrintRefundablePremium>Null</PrintRefundablePremium>
+                                    <PerOnceOccurance>false</PerOnceOccurance>
+                                    <PrintPremium patternCode="Premium">48.00</PrintPremium>
+                                    <PrintPremiumDetails>
+                                        <CovPremLineItem>
+                                            <DriverAssignment_CG>principaldriver</DriverAssignment_CG>
+                                            <CovCode>covIRLossOfUse_ON</CovCode>
+                                            <AnnualizedPremium>48</AnnualizedPremium>
+                                            <ActualAmount>48</ActualAmount>
+                                            <FullTermPremium>48</FullTermPremium>
+                                        </CovPremLineItem>
+                                    </PrintPremiumDetails>
+                                </PrintCoverage>
+                            </CoverageGroup>
+                            <Discounts />
+                            <Surcharges />
+                            <Summary>
+                                <TotalPremium>2865</TotalPremium>
+                                <DiscountTotal>0</DiscountTotal>
+                                <SurchargeTotal>0</SurchargeTotal>
+                                <AdditionalPremium>0</AdditionalPremium>
+                                <TotalTaxAmount>0</TotalTaxAmount>
+                                <TransactionCostRPT>0</TransactionCostRPT>
+                                <TransactionPremiumRPT>0</TransactionPremiumRPT>
+                                <TransactionSalesTax>0</TransactionSalesTax>
+                                <MotorizedVehiclePremium>0</MotorizedVehiclePremium>
+                                <TaxOnMotorizedVehiclePremium>0</TaxOnMotorizedVehiclePremium>
+                                <TaxablePremium>0</TaxablePremium>
+                                <Tax>0</Tax>
+                                <NonTaxablePremium>0</NonTaxablePremium>
+                                <Total>2865</Total>
+                                <CostSummary nontaxablepremium="0" taxablepremium="0" tax="0" motorizedvehiclepremium="0" motorizedvehicletax="0" />
+                            </Summary>
+                        </Vehicle_CG>
+                        <Summary>
+                            <TotalPremium>2865</TotalPremium>
+                            <DiscountTotal>0</DiscountTotal>
+                            <SurchargeTotal>0</SurchargeTotal>
+                            <AdditionalPremium>0</AdditionalPremium>
+                            <TotalTaxAmount>0</TotalTaxAmount>
+                            <TransactionCostRPT>0</TransactionCostRPT>
+                            <TransactionPremiumRPT>0</TransactionPremiumRPT>
+                            <TransactionSalesTax>0</TransactionSalesTax>
+                            <MotorizedVehiclePremium>0</MotorizedVehiclePremium>
+                            <TaxOnMotorizedVehiclePremium>0</TaxOnMotorizedVehiclePremium>
+                            <TaxablePremium>0</TaxablePremium>
+                            <Tax>0</Tax>
+                            <NonTaxablePremium>0</NonTaxablePremium>
+                            <Total>2865</Total>
+                            <CostSummary nontaxablepremium="0" taxablepremium="0" tax="0" motorizedvehiclepremium="0" motorizedvehicletax="0" />
+                        </Summary>
+                    </InsuredItems>
+                    <OtherRatedDrivers />
+                    <COILayout>
+                        <CoverageGrouping>true</CoverageGrouping>
+                    </COILayout>
+                    <PolicyCoverages>
+                        <CoverageGroup grouping="IRsectionOptionalAB" order="1350" displayOrder="1350">
+                            <PrintCoverage patternCode="covIRIncomeReplace" grouping="IRsectionOptionalAB" DisplayOrder="1100" type="IRAutoLineCov_CG" publicID="kaka:28811" fixedID="28785">
+                                <PrintCode>covIRIncomeReplace</PrintCode>
+                                <PrintSettlementOption patternCode="0">0</PrintSettlementOption>
+                                <PrintCoinsurance patternCode="no-print">0</PrintCoinsurance>
+                                <PrintLimit patternCode="IRIncomeReplaceOption">0</PrintLimit>
+                                <CovReferenceDate>2020-12-01T00:00:00</CovReferenceDate>
+                                <PrintRefundablePremium>Null</PrintRefundablePremium>
+                                <PerOnceOccurance>false</PerOnceOccurance>
+                                <PrintPremium patternCode="no-print">0.0</PrintPremium>
+                                <PrintExtension>
+                                    <PrintCode>IRIncomeReplaceOption</PrintCode>
+                                    <Value>0</Value>
+                                    <Code>declined</Code>
+                                    <DebugPatternCode>IRIncomeReplaceOption</DebugPatternCode>
+                                </PrintExtension>
+                            </PrintCoverage>
+                            <PrintCoverage patternCode="covIRCaregiver" grouping="IRsectionOptionalAB" DisplayOrder="1200" type="IRAutoLineCov_CG" publicID="kaka:28812" fixedID="28786">
+                                <PrintCode>covIRCaregiver</PrintCode>
+                                <PrintSettlementOption patternCode="0">0</PrintSettlementOption>
+                                <PrintCoinsurance patternCode="no-print">0</PrintCoinsurance>
+                                <PrintLimit patternCode="no-print">0</PrintLimit>
+                                <CovReferenceDate>2020-12-01T00:00:00</CovReferenceDate>
+                                <PrintRefundablePremium>Null</PrintRefundablePremium>
+                                <PerOnceOccurance>false</PerOnceOccurance>
+                                <PrintPremium patternCode="no-print">0.0</PrintPremium>
+                                <PrintExtension>
+                                    <PrintCode>IRCaregiverOption</PrintCode>
+                                    <Value>0</Value>
+                                    <Code>declined</Code>
+                                    <DebugPatternCode>IRCaregiverOption</DebugPatternCode>
+                                </PrintExtension>
+                            </PrintCoverage>
+                            <PrintCoverage patternCode="covIRMedRehabAttR16" grouping="IRsectionOptionalAB" DisplayOrder="1310" type="IRAutoLineCov_CG" publicID="kaka:28814" fixedID="28788">
+                                <PrintCode>covIRMedRehabAttendantR16</PrintCode>
+                                <PrintSettlementOption patternCode="0">0</PrintSettlementOption>
+                                <PrintCoinsurance patternCode="no-print">0</PrintCoinsurance>
+                                <PrintLimit patternCode="no-print">0</PrintLimit>
+                                <CovReferenceDate>2020-12-01T00:00:00</CovReferenceDate>
+                                <PrintRefundablePremium>Null</PrintRefundablePremium>
+                                <PerOnceOccurance>false</PerOnceOccurance>
+                                <PrintPremium patternCode="no-print">0.0</PrintPremium>
+                                <PrintExtension>
+                                    <PrintCode>IRMedRehabAttR16Option</PrintCode>
+                                    <Value>0</Value>
+                                    <Code>declined</Code>
+                                    <DebugPatternCode>IRMedRehabAttR16Option</DebugPatternCode>
+                                </PrintExtension>
+                            </PrintCoverage>
+                            <PrintCoverage patternCode="covIRMedRehabAttendantR16" grouping="IRsectionOptionalAB" DisplayOrder="1310" type="IRAutoLineCov_CG" publicID="kaka:28813" fixedID="28787">
+                                <PrintCode>covIRMedRehabAttendantR16</PrintCode>
+                                <PrintSettlementOption patternCode="0">0</PrintSettlementOption>
+                                <PrintCoinsurance patternCode="no-print">0</PrintCoinsurance>
+                                <PrintLimit patternCode="no-print">0</PrintLimit>
+                                <CovReferenceDate>2020-12-01T00:00:00</CovReferenceDate>
+                                <PrintRefundablePremium>Null</PrintRefundablePremium>
+                                <PerOnceOccurance>false</PerOnceOccurance>
+                                <PrintPremium patternCode="no-print">0.0</PrintPremium>
+                                <PrintExtension>
+                                    <PrintCode>IRMedRehabAttendantR16Option</PrintCode>
+                                    <Value>0</Value>
+                                    <Code>declined</Code>
+                                    <DebugPatternCode>IRMedRehabAttendantR16Option</DebugPatternCode>
+                                </PrintExtension>
+                            </PrintCoverage>
+                            <PrintCoverage patternCode="covIROptionalCatastrophicImpairment" grouping="IRsectionOptionalAB" DisplayOrder="1410" type="IRAutoLineCov_CG" publicID="kaka:28815" fixedID="28789">
+                                <PrintCode>covIROptionalCatastrophicImpairment</PrintCode>
+                                <PrintSettlementOption patternCode="0">0</PrintSettlementOption>
+                                <PrintCoinsurance patternCode="no-print">0</PrintCoinsurance>
+                                <PrintLimit patternCode="no-print">0</PrintLimit>
+                                <CovReferenceDate>2020-12-01T00:00:00</CovReferenceDate>
+                                <PrintRefundablePremium>Null</PrintRefundablePremium>
+                                <PerOnceOccurance>false</PerOnceOccurance>
+                                <PrintPremium patternCode="no-print">0.0</PrintPremium>
+                                <PrintExtension>
+                                    <PrintCode>IROptionalCatastrophicImpairmentOption</PrintCode>
+                                    <Value>0</Value>
+                                    <Code>declined</Code>
+                                    <DebugPatternCode>IROptionalCatastrophicImpairmentOption</DebugPatternCode>
+                                </PrintExtension>
+                            </PrintCoverage>
+                            <PrintCoverage patternCode="covIRDeathFuneral" grouping="IRsectionOptionalAB" DisplayOrder="1600" type="IRAutoLineCov_CG" publicID="kaka:28816" fixedID="28790">
+                                <PrintCode>covIRDeathFuneral</PrintCode>
+                                <PrintSettlementOption patternCode="0">0</PrintSettlementOption>
+                                <PrintCoinsurance patternCode="no-print">0</PrintCoinsurance>
+                                <PrintLimit patternCode="no-print">0</PrintLimit>
+                                <CovReferenceDate>2020-12-01T00:00:00</CovReferenceDate>
+                                <PrintRefundablePremium>Null</PrintRefundablePremium>
+                                <PerOnceOccurance>false</PerOnceOccurance>
+                                <PrintPremium patternCode="no-print">0.0</PrintPremium>
+                                <PrintExtension>
+                                    <PrintCode>IRDeathFuneralOption</PrintCode>
+                                    <Value>0</Value>
+                                    <Code>declined</Code>
+                                    <DebugPatternCode>IRDeathFuneralOption</DebugPatternCode>
+                                </PrintExtension>
+                            </PrintCoverage>
+                            <PrintCoverage patternCode="covIRDependantCare" grouping="IRsectionOptionalAB" DisplayOrder="1700" type="IRAutoLineCov_CG" publicID="kaka:28817" fixedID="28791">
+                                <PrintCode>covIRDependantCare</PrintCode>
+                                <PrintSettlementOption patternCode="0">0</PrintSettlementOption>
+                                <PrintCoinsurance patternCode="no-print">0</PrintCoinsurance>
+                                <PrintLimit patternCode="no-print">0</PrintLimit>
+                                <CovReferenceDate>2020-12-01T00:00:00</CovReferenceDate>
+                                <PrintRefundablePremium>Null</PrintRefundablePremium>
+                                <PerOnceOccurance>false</PerOnceOccurance>
+                                <PrintPremium patternCode="no-print">0.0</PrintPremium>
+                                <PrintExtension>
+                                    <PrintCode>IRDependantCareOption</PrintCode>
+                                    <Value>0</Value>
+                                    <Code>declined</Code>
+                                    <DebugPatternCode>IRDependantCareOption</DebugPatternCode>
+                                </PrintExtension>
+                            </PrintCoverage>
+                            <PrintCoverage patternCode="covIRIndexation" grouping="IRsectionOptionalAB" DisplayOrder="1800" type="IRAutoLineCov_CG" publicID="kaka:28818" fixedID="28792">
+                                <PrintCode>covIRIndexation</PrintCode>
+                                <PrintSettlementOption patternCode="0">0</PrintSettlementOption>
+                                <PrintCoinsurance patternCode="no-print">0</PrintCoinsurance>
+                                <PrintLimit patternCode="no-print">0</PrintLimit>
+                                <CovReferenceDate>2020-12-01T00:00:00</CovReferenceDate>
+                                <PrintRefundablePremium>Null</PrintRefundablePremium>
+                                <PerOnceOccurance>false</PerOnceOccurance>
+                                <PrintPremium patternCode="no-print">0.0</PrintPremium>
+                                <PrintExtension>
+                                    <PrintCode>IRIndexationOption</PrintCode>
+                                    <Value>0</Value>
+                                    <Code>declined</Code>
+                                    <DebugPatternCode>IRIndexationOption</DebugPatternCode>
+                                </PrintExtension>
+                            </PrintCoverage>
+                        </CoverageGroup>
+                        <CoverageGroup grouping="IRsectionPolicyChgForms" order="1900" displayOrder="1900">
+                            <PrintCoverage patternCode="covIRAccidentForgiveness" grouping="IRsectionPolicyChgForms" DisplayOrder="1050" type="IRAutoLineCov_CG" publicID="kaka:28810" fixedID="28784">
+                                <PrintCode>covIRAccidentForgiveness</PrintCode>
+                                <PrintSettlementOption patternCode="0">0</PrintSettlementOption>
+                                <PrintCoinsurance patternCode="no-print">0</PrintCoinsurance>
+                                <PrintLimit patternCode="no-print">0</PrintLimit>
+                                <CovReferenceDate>2020-12-01T00:00:00</CovReferenceDate>
+                                <PrintRefundablePremium>Null</PrintRefundablePremium>
+                                <PerOnceOccurance>false</PerOnceOccurance>
+                                <PrintPremium patternCode="no-print">0.0</PrintPremium>
+                                <PrintExtension>
+                                    <PrintCode>IRAccidentForgivenessOption</PrintCode>
+                                    <Value>1</Value>
+                                    <Code>ineligible</Code>
+                                    <DebugPatternCode>IRAccidentForgivenessOption</DebugPatternCode>
+                                </PrintExtension>
+                            </PrintCoverage>
+                        </CoverageGroup>
+                        <Discounts />
+                        <Surcharges />
+                        <Summary>
+                            <TotalPremium>0</TotalPremium>
+                            <DiscountTotal>0</DiscountTotal>
+                            <SurchargeTotal>0</SurchargeTotal>
+                            <AdditionalPremium>0</AdditionalPremium>
+                            <TotalTaxAmount>0</TotalTaxAmount>
+                            <TransactionCostRPT>0</TransactionCostRPT>
+                            <TransactionPremiumRPT>0</TransactionPremiumRPT>
+                            <TransactionSalesTax>0</TransactionSalesTax>
+                            <MotorizedVehiclePremium>0</MotorizedVehiclePremium>
+                            <TaxOnMotorizedVehiclePremium>0</TaxOnMotorizedVehiclePremium>
+                            <TaxablePremium>0</TaxablePremium>
+                            <Tax>0</Tax>
+                            <NonTaxablePremium>0</NonTaxablePremium>
+                            <Total>0</Total>
+                            <CostSummary nontaxablepremium="0" taxablepremium="0" tax="0" motorizedvehiclepremium="0" motorizedvehicletax="0" />
+                        </Summary>
+                    </PolicyCoverages>
+                    <Summary>
+                        <TotalPolicyPremium>2865</TotalPolicyPremium>
+                        <DiscountTotal>0</DiscountTotal>
+                        <SurchargeTotal>0</SurchargeTotal>
+                        <AdditionalPremium>0</AdditionalPremium>
+                        <TotalTaxAmount>0</TotalTaxAmount>
+                        <TransactionCostRPT>0</TransactionCostRPT>
+                        <TransactionPremiumRPT>0</TransactionPremiumRPT>
+                        <TransactionSalesTax>0</TransactionSalesTax>
+                        <TotalPremium>2865</TotalPremium>
+                        <MotorizedVehiclePremium>0</MotorizedVehiclePremium>
+                        <TaxOnMotorizedVehiclePremium>0</TaxOnMotorizedVehiclePremium>
+                        <TaxablePremium>0</TaxablePremium>
+                        <Tax>0</Tax>
+                        <NonTaxablePremium>0</NonTaxablePremium>
+                        <Total>2865</Total>
+                        <CostSummary nontaxablepremium="0" taxablepremium="0" tax="0" motorizedvehiclepremium="0" motorizedvehicletax="0" />
+                    </Summary>
+                    <StandardABVersion>2016</StandardABVersion>
+                </PolicyPeriod>
+            </Policy>
+            <PreviousPolicyPeriod>
+                <PolicyPeriod type="PolicyPeriod" publicID="kaka:41609">
+                    <AssignedRisk>false</AssignedRisk>
+                    <BranchName>Version #1</BranchName>
+                    <BranchNumber>1</BranchNumber>
+                    <DepositCollected>0</DepositCollected>
+                    <FailedOOSEValidation>false</FailedOOSEValidation>
+                    <FailedOOSEEvaluation>false</FailedOOSEEvaluation>
+                    <TermNumber>1</TermNumber>
+                    <PolicyNumber>4181401069</PolicyNumber>
+                    <PrimaryInsuredName>MERCEDES DUPLICATE</PrimaryInsuredName>
+                    <ValidQuote>true</ValidQuote>
+                    <WrittenDate>2019-11-08</WrittenDate>
+                    <OverrideBillingAllocation>false</OverrideBillingAllocation>
+                    <BillImmediatelyPercentage>0</BillImmediatelyPercentage>
+                    <WaiveDepositChange>false</WaiveDepositChange>
+                    <PaymentPlanID>CSP</PaymentPlanID>
+                    <PaymentPlanName>Staff Payroll</PaymentPlanName>
+                    <QuoteHidden>false</QuoteHidden>
+                    <EditLocked>false</EditLocked>
+                    <TotalPremiumRPT>2865</TotalPremiumRPT>
+                    <TotalCostRPT>2865</TotalCostRPT>
+                    <TransactionPremiumRPT>2865</TransactionPremiumRPT>
+                    <TransactionCostRPT>2865</TransactionCostRPT>
+                    <ValidReinsurance>true</ValidReinsurance>
+                    <RateAsOfDate>2019-11-08T11:44:47</RateAsOfDate>
+                    <DoNotPurge>false</DoNotPurge>
+                    <BaseState>ON</BaseState>
+                    <BaseState_Name_TC>Ontario</BaseState_Name_TC>
+                    <Status>Bound</Status>
+                    <Status_Name_TC>Bound</Status_Name_TC>
+                    <BillingMethod>DirectBill</BillingMethod>
+                    <BillingMethod_Name_TC>Direct bill</BillingMethod_Name_TC>
+                    <PeriodStart>2020-12-01T00:01:00</PeriodStart>
+                    <PeriodEnd>2021-12-01T00:01:00</PeriodEnd>
+                    <ModelDate>2019-11-08T11:47:14</ModelDate>
+                    <ModelNumber>1</ModelNumber>
+                    <PeriodId>41609</PeriodId>
+                    <CreateTime>2019-11-08T11:40:21</CreateTime>
+                    <UpdateTime>2019-11-08T11:47:14</UpdateTime>
+                    <SliceDate>2020-12-01T00:01:00</SliceDate>
+                    <SliceEndDate>2021-12-01T00:01:00</SliceEndDate>
+                    <EditEffectiveDate>2020-12-01T00:01:00</EditEffectiveDate>
+                    <TermType>Annual</TermType>
+                    <TermType_Name_TC>12 Months</TermType_Name_TC>
+                    <BusinessMarketContext>cgic</BusinessMarketContext>
+                    <BusinessMarketContext_Name_TC>CGIC</BusinessMarketContext_Name_TC>
+                    <MemberOwner_CG>false</MemberOwner_CG>
+                    <SelectedBillingAccount_CG>N/A</SelectedBillingAccount_CG>
+                    <OpenPreQuoteIssue_CG>false</OpenPreQuoteIssue_CG>
+                    <FirstRewalConversion_CG>false</FirstRewalConversion_CG>
+                    <RiskScore_CG>60</RiskScore_CG>
+                    <FuzzyHITSSearch_CG>false</FuzzyHITSSearch_CG>
+                    <CommOverriden_CG>false</CommOverriden_CG>
+                    <MultiPolicyDiscount_CG>false</MultiPolicyDiscount_CG>
+                    <MultiPolicyInterfaceSuccess_CG>true</MultiPolicyInterfaceSuccess_CG>
+                    <QuoteEffDate_CG>2019-11-08T11:44:56</QuoteEffDate_CG>
+                    <UWChangeRequested_CG>false</UWChangeRequested_CG>
+                    <BrokerRequest_CG>false</BrokerRequest_CG>
+                    <BrokerCreditScore_CG>false</BrokerCreditScore_CG>
+                    <BillingMethodOverridden_CG>true</BillingMethodOverridden_CG>
+                    <LiabilityClaimCount_CG>0</LiabilityClaimCount_CG>
+                    <OtherClaimCount_CG>0</OtherClaimCount_CG>
+                    <ScheduledArticlesClaimCount_CG>0</ScheduledArticlesClaimCount_CG>
+                    <TravelTrailerClaimCount_CG>0</TravelTrailerClaimCount_CG>
+                    <WatercraftClaimCount_CG>0</WatercraftClaimCount_CG>
+                    <RecheckPaymentInfo_CG>false</RecheckPaymentInfo_CG>
+                    <OriginalRenewalShell_CG>false</OriginalRenewalShell_CG>
+                    <OverrideMandatoryFields_CG>false</OverrideMandatoryFields_CG>
+                    <OriginalPortalShell_CG>false</OriginalPortalShell_CG>
+                    <CappingFactorRecalculated_CG>false</CappingFactorRecalculated_CG>
+                    <UWApproval_CG>None</UWApproval_CG>
+                    <UWApproval_CG_Name_TC />
+                    <UnderwritingRequested_CG>none</UnderwritingRequested_CG>
+                    <UnderwritingRequested_CG_Name_TC>None</UnderwritingRequested_CG_Name_TC>
+                    <TermType_CG>Annual</TermType_CG>
+                    <TermType_CG_Name_TC>12 Months</TermType_CG_Name_TC>
+                    <PrintDefault_CG>mtc</PrintDefault_CG>
+                    <PrintDefault_CG_Name_TC>Mail to client</PrintDefault_CG_Name_TC>
+                    <RATING_ENGINE_CONTEXT>guidewire</RATING_ENGINE_CONTEXT>
+                    <Job type="Submission" publicID="kaka:40609">
+                        <CloseDate>2019-11-08T11:47:14</CloseDate>
+                        <JobNumber>901499</JobNumber>
+                        <PrimaryInsuredName>MERCEDES DUPLICATE</PrimaryInsuredName>
+                        <SideBySide>false</SideBySide>
+                        <PurgeStatus>Unknown</PurgeStatus>
+                        <PurgeStatus_Name_TC>Unknown</PurgeStatus_Name_TC>
+                        <PrintRedirectionType_CG>print-only</PrintRedirectionType_CG>
+                        <PrintRedirectionType_CG_Name_TC>Mail Only</PrintRedirectionType_CG_Name_TC>
+                        <SubmissionDate>2019-11-08T11:40:21</SubmissionDate>
+                        <BindOption>BindAndIssue</BindOption>
+                        <BindOption_Name_TC>BindAndIssue</BindOption_Name_TC>
+                        <QuoteType>Full</QuoteType>
+                        <QuoteType_Name_TC>Full Application</QuoteType_Name_TC>
+                    </Job>
+                    <ProducerCode type="ProducerCode" publicID="QAPCOD:1866">
+                        <Code>80000</Code>
+                        <Description>martin craig</Description>
+                        <ProducerStatus>Active</ProducerStatus>
+                        <ProducerStatus_Name_TC>Active</ProducerStatus_Name_TC>
+                        <DocProd_PrintableName>MARTIN CRAIG:P80000</DocProd_PrintableName>
+                        <Address type="Address" publicID="QAADD:1866">
+                            <AddressLine1>B-370 BOUL GREBER</AddressLine1>
+                            <BatchGeocode>false</BatchGeocode>
+                            <GeocodeStatus>none</GeocodeStatus>
+                            <GeocodeStatus_Name_TC>None</GeocodeStatus_Name_TC>
+                            <City>gatineau</City>
+                            <State>QC</State>
+                            <State_Name_TC>Quebec</State_Name_TC>
+                            <Country>CA</Country>
+                            <Country_Name_TC>Canada</Country_Name_TC>
+                            <AddressType_CG>civic</AddressType_CG>
+                            <AddressType_CG_Name_TC>Civic</AddressType_CG_Name_TC>
+                        </Address>
+                    </ProducerCode>
+                    <PeriodAnswers>
+                        <PeriodAnswer type="PeriodAnswer" publicID="kaka:37321" fixedID="37321">
+                            <QuestionCode>IRCancelledIns</QuestionCode>
+                            <BooleanAnswer>false</BooleanAnswer>
+                            <EffectiveDate>2020-12-01T00:01:00</EffectiveDate>
+                            <ExpirationDate>2021-12-01T00:01:00</ExpirationDate>
+                            <ChangeType>slice</ChangeType>
+                            <ChangeType_Name_TC>Slice</ChangeType_Name_TC>
+                        </PeriodAnswer>
+                        <PeriodAnswer type="PeriodAnswer" publicID="kaka:37322" fixedID="37322">
+                            <QuestionCode>IRNumberOfCancellations</QuestionCode>
+                            <EffectiveDate>2020-12-01T00:01:00</EffectiveDate>
+                            <ExpirationDate>2021-12-01T00:01:00</ExpirationDate>
+                            <ChangeType>slice</ChangeType>
+                            <ChangeType_Name_TC>Slice</ChangeType_Name_TC>
+                        </PeriodAnswer>
+                        <PeriodAnswer type="PeriodAnswer" publicID="kaka:37318" fixedID="37318">
+                            <QuestionCode>IR1b</QuestionCode>
+                            <BooleanAnswer>false</BooleanAnswer>
+                            <EffectiveDate>2020-12-01T00:01:00</EffectiveDate>
+                            <ExpirationDate>2021-12-01T00:01:00</ExpirationDate>
+                            <ChangeType>slice</ChangeType>
+                            <ChangeType_Name_TC>Slice</ChangeType_Name_TC>
+                        </PeriodAnswer>
+                        <PeriodAnswer type="PeriodAnswer" publicID="kaka:37319" fixedID="37319">
+                            <QuestionCode>IR2</QuestionCode>
+                            <BooleanAnswer>false</BooleanAnswer>
+                            <EffectiveDate>2020-12-01T00:01:00</EffectiveDate>
+                            <ExpirationDate>2021-12-01T00:01:00</ExpirationDate>
+                            <ChangeType>slice</ChangeType>
+                            <ChangeType_Name_TC>Slice</ChangeType_Name_TC>
+                        </PeriodAnswer>
+                        <PeriodAnswer type="PeriodAnswer" publicID="kaka:37320" fixedID="37320">
+                            <QuestionCode>IR5</QuestionCode>
+                            <BooleanAnswer>false</BooleanAnswer>
+                            <EffectiveDate>2020-12-01T00:01:00</EffectiveDate>
+                            <ExpirationDate>2021-12-01T00:01:00</ExpirationDate>
+                            <ChangeType>slice</ChangeType>
+                            <ChangeType_Name_TC>Slice</ChangeType_Name_TC>
+                        </PeriodAnswer>
+                        <PeriodAnswer type="PeriodAnswer" publicID="kaka:37317" fixedID="37317">
+                            <QuestionCode>IR1a</QuestionCode>
+                            <BooleanAnswer>false</BooleanAnswer>
+                            <EffectiveDate>2020-12-01T00:01:00</EffectiveDate>
+                            <ExpirationDate>2021-12-01T00:01:00</ExpirationDate>
+                            <ChangeType>slice</ChangeType>
+                            <ChangeType_Name_TC>Slice</ChangeType_Name_TC>
+                        </PeriodAnswer>
+                    </PeriodAnswers>
+                    <LineSummary>
+                        <IRAutoLine_CG>
+                            <Count>17</Count>
+                            <Clause pattern="covIRCaregiver">Caregiver, Housekeeping and Home Maintenance Benefits</Clause>
+                            <Clause pattern="covIRDependantCare">Dependant Care Benefit</Clause>
+                            <Clause pattern="covIRMedRehabAttR16">Medical, Rehabilitation &amp; Attendant Care Limit ($130,000)</Clause>
+                            <Clause pattern="covIROptionalCatastrophicImpairment">Optional Catastrophic Impairment ($1,000,000)</Clause>
+                            <Clause pattern="covIRMedRehabAttendantR16">Medical, Rehabilitation &amp; Attendant Care Benefits ($1,000,000)</Clause>
+                            <Clause pattern="covIRIndexation">Indexation (Consumer Price Index)</Clause>
+                            <Clause pattern="covIRIncomeReplace">Income Replacement Benefit</Clause>
+                            <Clause pattern="covIRAccidentForgiveness">Accident Forgiveness Endorsement</Clause>
+                            <Clause pattern="covIRDeathFuneral">Death and Funeral Benefits</Clause>
+                            <Clause pattern="covIRDCPD">Direct Compensation - Property Damage</Clause>
+                            <Clause pattern="covIRLiability">Liability</Clause>
+                            <Clause pattern="covIRAccidentBenefits">Accident Benefits</Clause>
+                            <Clause pattern="covIRUninsuredAuto">Uninsured Automobile</Clause>
+                            <Clause pattern="covIRLossOfUse_ON">20 - Coverage for Transportation Replacement</Clause>
+                            <Clause pattern="covIRFamilyProtection_ON">44R - Family Protection Coverage</Clause>
+                            <Clause pattern="covIRCollision">Collision</Clause>
+                            <Clause pattern="covIRComprehensive">Comprehensive</Clause>
+                        </IRAutoLine_CG>
+                    </LineSummary>
+                    <ContainsNewfoundlandInsuredItem>false</ContainsNewfoundlandInsuredItem>
+                    <ContainsABQCBCItem>false</ContainsABQCBCItem>
+                    <NLSaleOfInsurance>false</NLSaleOfInsurance>
+                    <InsuredYears>0</InsuredYears>
+                    <OneClaimInYears>5</OneClaimInYears>
+                    <Harmonized>false</Harmonized>
+                    <InsuredItems>
+                        <Vehicle_CG type="Vehicle_CG" publicID="kaka:51916" fixedID="51916">
+                            <VehicleNum_CG>1</VehicleNum_CG>
+                            <Make_CG>CHEVROLET TRUCK/VAN</Make_CG>
+                            <VehicleCode_CG>575100</VehicleCode_CG>
+                            <Model_CG>EXPRESS 1500 CARGO VAN AWD</Model_CG>
+                            <VIN_CG>1GCFH154X91734852</VIN_CG>
+                            <ModifiedCustomized_CG>false</ModifiedCustomized_CG>
+                            <Year_CG>2009</Year_CG>
+                            <AnnualMileage_CG>15000</AnnualMileage_CG>
+                            <NonFactElectricEquip_CG>false</NonFactElectricEquip_CG>
+                            <PercentDrivenUS_CG>0</PercentDrivenUS_CG>
+                            <PurchasePrice_CG>7800</PurchasePrice_CG>
+                            <PurchaseLeaseDate_CG>2020-12-01T00:00:00</PurchaseLeaseDate_CG>
+                            <AcquiredNew_CG>false</AcquiredNew_CG>
+                            <PercentBusinessUse_CG>80</PercentBusinessUse_CG>
+                            <CededIndicator_CG>false</CededIndicator_CG>
+                            <RSPEligible_CG>false</RSPEligible_CG>
+                            <PUPPOverride_CG>false</PUPPOverride_CG>
+                            <RSPScore_CG>0</RSPScore_CG>
+                            <ABRateGroup_CG>26</ABRateGroup_CG>
+                            <CollisionAPRateGroup_CG>22</CollisionAPRateGroup_CG>
+                            <CompSPRateGroup_CG>21</CompSPRateGroup_CG>
+                            <DCPDRateGroup_CG>16</DCPDRateGroup_CG>
+                            <VINValidated_CG>false</VINValidated_CG>
+                            <VehicleBranded_CG>false</VehicleBranded_CG>
+                            <TransportCapacity_CG>false</TransportCapacity_CG>
+                            <CarryExplosives_CG>false</CarryExplosives_CG>
+                            <CarryRadioactive_CG>false</CarryRadioactive_CG>
+                            <GaragedOutsideCanada_CG>false</GaragedOutsideCanada_CG>
+                            <TransportGoodsForComp_CG>false</TransportGoodsForComp_CG>
+                            <TransportPassForComp_CG>false</TransportPassForComp_CG>
+                            <RentedLeasedToOthers_CG>false</RentedLeasedToOthers_CG>
+                            <RightHandDriveVehicle_CG>false</RightHandDriveVehicle_CG>
+                            <VehSecondaryUse_CG>false</VehSecondaryUse_CG>
+                            <BusinessType_CG>Auto-629 test</BusinessType_CG>
+                            <ActualOwner_CG>false</ActualOwner_CG>
+                            <CompOnly_CG>false</CompOnly_CG>
+                            <LienOnVehicle_CG>false</LienOnVehicle_CG>
+                            <GaragedTerritory_CG>Guelph &amp; Cambridge</GaragedTerritory_CG>
+                            <GaragedPostalCode_CG>N1H 6S4</GaragedPostalCode_CG>
+                            <GaragedTerritoryCode_CG>31</GaragedTerritoryCode_CG>
+                            <OutsideProvinceUse_CG>false</OutsideProvinceUse_CG>
+                            <CommercialUse_CG>false</CommercialUse_CG>
+                            <StatTerritory_CG>706</StatTerritory_CG>
+                            <MachEquipMountAttachInd_CG>false</MachEquipMountAttachInd_CG>
+                            <VINVerified_CG>false</VINVerified_CG>
+                            <RateGroupDetail_CG>CLEAR</RateGroupDetail_CG>
+                            <RSPAutoQualify_CG>false</RSPAutoQualify_CG>
+                            <Latitude_CG>43.53747</Latitude_CG>
+                            <Longitude_CG>-80.27686</Longitude_CG>
+                            <Reinsurance_CG>false</Reinsurance_CG>
+                            <AnnualBusinessMileage_CG>12000</AnnualBusinessMileage_CG>
+                            <VRGCostUsed_CG>false</VRGCostUsed_CG>
+                            <VRGCostIsLastResort_CG>false</VRGCostIsLastResort_CG>
+                            <OriginalEffectiveDate_CG>2020-12-01T00:01:00</OriginalEffectiveDate_CG>
+                            <OriginalEffDateCurrentVeh_CG>2020-12-01T00:01:00</OriginalEffDateCurrentVeh_CG>
+                            <TrackMarkRequiredCOM_CG>false</TrackMarkRequiredCOM_CG>
+                            <TrackMarkRequiredPPV_CG>false</TrackMarkRequiredPPV_CG>
+                            <IbcBodyStyle_CG>CV</IbcBodyStyle_CG>
+                            <VehicleClassification_CG>personal</VehicleClassification_CG>
+                            <VehicleClassification_CG_Name_TC>Personal</VehicleClassification_CG_Name_TC>
+                            <VehicleType_CG>privatepassenger</VehicleType_CG>
+                            <VehicleType_CG_Name_TC>Private Passenger</VehicleType_CG_Name_TC>
+                            <BodyType_CG>cargovan</BodyType_CG>
+                            <BodyType_CG_Name_TC>Cargo Van</BodyType_CG_Name_TC>
+                            <EngineUnit_CG>cylinders</EngineUnit_CG>
+                            <EngineUnit_CG_Name_TC>Cylinders</EngineUnit_CG_Name_TC>
+                            <VehiclePrimaryUse_CG>business</VehiclePrimaryUse_CG>
+                            <VehiclePrimaryUse_CG_Name_TC>Business</VehiclePrimaryUse_CG_Name_TC>
+                            <FuelType_CG>Gasoline</FuelType_CG>
+                            <FuelType_CG_Name_TC>Gasoline</FuelType_CG_Name_TC>
+                            <VehicleOwnership_CG>Owned</VehicleOwnership_CG>
+                            <VehicleOwnership_CG_Name_TC>Owned</VehicleOwnership_CG_Name_TC>
+                            <VehicleRegistrationProvince_CG>ON</VehicleRegistrationProvince_CG>
+                            <VehicleRegistrationProvince_CG_Name_TC>Ontario</VehicleRegistrationProvince_CG_Name_TC>
+                            <IBCRateGroupType_CG>A</IBCRateGroupType_CG>
+                            <IBCRateGroupType_CG_Name_TC>CLEAR Individual Coverage</IBCRateGroupType_CG_Name_TC>
+                            <GeocodeStatus_CG>Postal_Code</GeocodeStatus_CG>
+                            <GeocodeStatus_CG_Name_TC>Postal Code</GeocodeStatus_CG_Name_TC>
+                            <VRGMethod_CG>CLEAR</VRGMethod_CG>
+                            <VRGMethod_CG_Name_TC>CLEAR</VRGMethod_CG_Name_TC>
+                            <RSPOverrideMode_CG>automatic</RSPOverrideMode_CG>
+                            <RSPOverrideMode_CG_Name_TC>None</RSPOverrideMode_CG_Name_TC>
+                            <VehicleRatingInputs_CG type="VehicleRatingInputs_CG" publicID="kaka:7213" fixedID="7213">
+                                <IbcFuel_CG>G</IbcFuel_CG>
+                                <IbcPrice_CG>37018</IbcPrice_CG>
+                                <VehicleDesUpdateTime_CG>2019-11-08T11:44:12</VehicleDesUpdateTime_CG>
+                                <EffectiveDate>2020-12-01T00:01:00</EffectiveDate>
+                                <ExpirationDate>2021-12-01T00:01:00</ExpirationDate>
+                                <ChangeType>slice</ChangeType>
+                                <ChangeType_Name_TC>Slice</ChangeType_Name_TC>
+                            </VehicleRatingInputs_CG>
+                            <EffectiveDate>2020-12-01T00:01:00</EffectiveDate>
+                            <ExpirationDate>2021-12-01T00:01:00</ExpirationDate>
+                            <ChangeType>slice</ChangeType>
+                            <ChangeType_Name_TC>Slice</ChangeType_Name_TC>
+                            <Harmonized>false</Harmonized>
+                            <VehicleTracking_CG>
+                                <TrackingNumber_CG>P100000000486</TrackingNumber_CG>
+                                <Type_CG>permanent</Type_CG>
+                                <Created />
+                            </VehicleTracking_CG>
+                            <PolicyVehicleNamedInsured type="Contact" publicID="kaka:13004">
+                                <DisplayNames>
+                                    <DisplayName OccupationType_Code_CG="ETU">JILAUTO SIXTWONINE</DisplayName>
+                                </DisplayNames>
+                                <PrintInternalMarketingInd_CG>true</PrintInternalMarketingInd_CG>
+                                <PrintExternalMarketingInd_CG>true</PrintExternalMarketingInd_CG>
+                                <PrintPolicyDocumentsOnly_CG />
+                                <PrintOtherInsuranceProducts_CG />
+                                <Address type="Address" publicID="kaka:42004">
+                                    <AddressLine1>36 COOKS RD</AddressLine1>
+                                    <BatchGeocode>false</BatchGeocode>
+                                    <City>SEGUIN</City>
+                                    <PostalCode>P2A 2W8</PostalCode>
+                                    <State>ON</State>
+                                    <State_Name_TC>Ontario</State_Name_TC>
+                                    <Country>CA</Country>
+                                    <Country_Name_TC>Canada</Country_Name_TC>
+                                </Address>
+                            </PolicyVehicleNamedInsured>
+                            <PolicyVehicleNamedInsured type="Contact" publicID="kaka:12103">
+                                <DisplayNames>
+                                    <DisplayName OccupationType_Code_CG="SRV">MERCEDES DUPLICATE</DisplayName>
+                                </DisplayNames>
+                                <PrintInternalMarketingInd_CG>true</PrintInternalMarketingInd_CG>
+                                <PrintExternalMarketingInd_CG>true</PrintExternalMarketingInd_CG>
+                                <PrintPolicyDocumentsOnly_CG />
+                                <PrintOtherInsuranceProducts_CG />
+                                <Address type="Address" publicID="kaka:41001">
+                                    <AddressLine1>105 SILVERCREEK PKY N</AddressLine1>
+                                    <BatchGeocode>false</BatchGeocode>
+                                    <City>GUELPH</City>
+                                    <PostalCode>N1H 6S4</PostalCode>
+                                    <State>ON</State>
+                                    <State_Name_TC>Ontario</State_Name_TC>
+                                    <Country>CA</Country>
+                                    <Country_Name_TC>Canada</Country_Name_TC>
+                                </Address>
+                            </PolicyVehicleNamedInsured>
+                            <VehicleDriver_CG type="VehicleDriver_CG" publicID="kaka:49530" fixedID="49530">
+                                <ClassCode_CG>019</ClassCode_CG>
+                                <PercentageDriven_CG>100</PercentageDriven_CG>
+                                <TimeLicensed_CG>3</TimeLicensed_CG>
+                                <YearsLicensed_CG>3</YearsLicensed_CG>
+                                <YearsClaimsFree_CG>2</YearsClaimsFree_CG>
+                                <firstChanceInd_CG>false</firstChanceInd_CG>
+                                <NewDriverCreditInd_CG>false</NewDriverCreditInd_CG>
+                                <AgeWhenLicensed_CG>19</AgeWhenLicensed_CG>
+                                <DriverAssignment_CG>principaldriver</DriverAssignment_CG>
+                                <DriverAssignment_CG_Name_TC>Principal Driver</DriverAssignment_CG_Name_TC>
+                                <EffectiveDate>2020-12-01T00:01:00</EffectiveDate>
+                                <ExpirationDate>2021-12-01T00:01:00</ExpirationDate>
+                                <ChangeType>slice</ChangeType>
+                                <ChangeType_Name_TC>Slice</ChangeType_Name_TC>
+                                <PolicyDriver_CG type="PolicyDriver_CG" publicID="kaka:50357" fixedID="50357">
+                                    <InsuredSinceYear_CG>2999</InsuredSinceYear_CG>
+                                    <TaxExempt_CG>false</TaxExempt_CG>
+                                    <CustomerSince_CG>2019-11-08T00:00:00</CustomerSince_CG>
+                                    <OccupationType_CG>ETU</OccupationType_CG>
+                                    <OccupationType_CG_Name_TC>Student</OccupationType_CG_Name_TC>
+                                    <EffectiveDate>2020-12-01T00:01:00</EffectiveDate>
+                                    <ExpirationDate>2021-12-01T00:01:00</ExpirationDate>
+                                    <ChangeType>window</ChangeType>
+                                    <ChangeType_Name_TC>Window</ChangeType_Name_TC>
+                                    <RequestHITS_CG>false</RequestHITS_CG>
+                                    <OriginalEffectiveDate_CG>2020-12-01T00:01:00</OriginalEffectiveDate_CG>
+                                    <MultiDiscountApplies_CG>no</MultiDiscountApplies_CG>
+                                    <MultiDiscountApplies_CG_Name_TC>No</MultiDiscountApplies_CG_Name_TC>
+                                    <LossHistoryExists_CG>true</LossHistoryExists_CG>
+                                    <PriorPolicyExists_CG>true</PriorPolicyExists_CG>
+                                    <InexpDrvDiscDisqualifiedInd_CG>false</InexpDrvDiscDisqualifiedInd_CG>
+                                    <DriverAge_CG>22</DriverAge_CG>
+                                    <PolicyDriverMVR_CG type="PolicyDriverMVR_CG" publicID="kaka:44420" fixedID="44420">
+                                        <NumberDemeritSuspensions_CG>0</NumberDemeritSuspensions_CG>
+                                        <NumberAdminSuspensions_CG>0</NumberAdminSuspensions_CG>
+                                        <NumUnsatisfiedJudgementSusp_CG>0</NumUnsatisfiedJudgementSusp_CG>
+                                        <NumberMinorConvictions_CG>0</NumberMinorConvictions_CG>
+                                        <NumberMajorConvictions_CG>0</NumberMajorConvictions_CG>
+                                        <NumSeriousCriminalCodeConv_CG>0</NumSeriousCriminalCodeConv_CG>
+                                        <EffectiveDate>2020-12-01T00:01:00</EffectiveDate>
+                                        <ExpirationDate>2021-12-01T00:01:00</ExpirationDate>
+                                        <ChangeType>slice</ChangeType>
+                                        <ChangeType_Name_TC>Slice</ChangeType_Name_TC>
+                                    </PolicyDriverMVR_CG>
+                                    <PolicyDriverLicClass_CG type="PolicyDriverLicClass_CG" publicID="kaka:41421" fixedID="41421">
+                                        <LicenceClassEffDate_CG>2017-06-25T00:00:00</LicenceClassEffDate_CG>
+                                        <LicenceClass_CG>G</LicenceClass_CG>
+                                        <LicenceClass_CG_Name_TC>G</LicenceClass_CG_Name_TC>
+                                        <EffectiveDate>2020-12-01T00:01:00</EffectiveDate>
+                                        <ExpirationDate>2021-12-01T00:01:00</ExpirationDate>
+                                        <ChangeType>slice</ChangeType>
+                                        <ChangeType_Name_TC>Slice</ChangeType_Name_TC>
+                                    </PolicyDriverLicClass_CG>
+                                    <LossHistoryEntry_CG type="LossHistoryEntry_CG" publicID="kaka:27232" fixedID="27232">
+                                        <AppliedIndicator_CG>true</AppliedIndicator_CG>
+                                        <OccurrenceDate_CG>2017-12-25T00:00:00</OccurrenceDate_CG>
+                                        <Source_CG>manual</Source_CG>
+                                        <Source_CG_Name_TC>Manual</Source_CG_Name_TC>
+                                        <LossKind_CG>single</LossKind_CG>
+                                        <LossKind_CG_Name_TC>Single-vehicle</LossKind_CG_Name_TC>
+                                        <ClaimsForgiveness_CG>yes</ClaimsForgiveness_CG>
+                                        <ClaimsForgiveness_CG_Name_TC>Yes</ClaimsForgiveness_CG_Name_TC>
+                                        <LossStatus_CG>Closed</LossStatus_CG>
+                                        <LossStatus_CG_Name_TC>Closed</LossStatus_CG_Name_TC>
+                                        <RatingImpacted_CG>Yes</RatingImpacted_CG>
+                                        <RatingImpacted_CG_Name_TC>Yes</RatingImpacted_CG_Name_TC>
+                                        <LossHistoryPeriodExp_CG type="LossHistoryPeriodExp_CG" publicID="kaka:24761" fixedID="24761">
+                                            <ApplyToDerived_CG>false</ApplyToDerived_CG>
+                                            <LossReserve_CG>0</LossReserve_CG>
+                                            <LegalReserve_CG>0</LegalReserve_CG>
+                                            <LegalPaid_CG>0</LegalPaid_CG>
+                                            <OtherExpenseReserve_CG>0</OtherExpenseReserve_CG>
+                                            <OtherExpensePaid_CG>0</OtherExpensePaid_CG>
+                                            <Coverage_CG>COLL</Coverage_CG>
+                                            <Coverage_CG_Name_TC>Collision</Coverage_CG_Name_TC>
+                                            <EffectiveDate>2020-12-01T00:01:00</EffectiveDate>
+                                            <ExpirationDate>2021-12-01T00:01:00</ExpirationDate>
+                                            <ChangeType>slice</ChangeType>
+                                            <ChangeType_Name_TC>Slice</ChangeType_Name_TC>
+                                        </LossHistoryPeriodExp_CG>
+                                        <AssignedLoss_CG type="AssignedLoss_CG" publicID="kaka:6030" fixedID="6030">
+                                            <CountedForSurcharge_CG>true</CountedForSurcharge_CG>
+                                            <AccAssExpirationDate_CG>2027-12-25T00:00:00</AccAssExpirationDate_CG>
+                                            <EffectiveDate>2020-12-01T00:01:00</EffectiveDate>
+                                            <ExpirationDate>2021-12-01T00:01:00</ExpirationDate>
+                                            <ChangeType>slice</ChangeType>
+                                            <ChangeType_Name_TC>Slice</ChangeType_Name_TC>
+                                        </AssignedLoss_CG>
+                                        <EffectiveDate>2020-12-01T00:01:00</EffectiveDate>
+                                        <ExpirationDate>2021-12-01T00:01:00</ExpirationDate>
+                                        <ChangeType>slice</ChangeType>
+                                        <ChangeType_Name_TC>Slice</ChangeType_Name_TC>
+                                        <LossNew_CG>false</LossNew_CG>
+                                        <VehicleType_CG>privatepassenger</VehicleType_CG>
+                                        <VehicleType_CG_Name_TC>Private Passenger</VehicleType_CG_Name_TC>
+                                        <Fault_CG>atfaultchargeable</Fault_CG>
+                                        <Fault_CG_Name_TC>At fault</Fault_CG_Name_TC>
+                                        <LossHistoryEntry type="LossHistoryEntry" publicID="kaka:6101">
+                                            <OccurrenceDate>2017-12-25T00:00:00</OccurrenceDate>
+                                            <LossStatus>Closed</LossStatus>
+                                            <LossStatus_Name_TC>Closed</LossStatus_Name_TC>
+                                            <AppliedIndicator_CG>true</AppliedIndicator_CG>
+                                            <Source_CG>manual</Source_CG>
+                                            <Source_CG_Name_TC>Manual</Source_CG_Name_TC>
+                                            <LossKind_CG>single</LossKind_CG>
+                                            <LossKind_CG_Name_TC>Single-vehicle</LossKind_CG_Name_TC>
+                                            <RatingImpacted_CG>Yes</RatingImpacted_CG>
+                                            <RatingImpacted_CG_Name_TC>Yes</RatingImpacted_CG_Name_TC>
+                                            <VehicleType_CG>privatepassenger</VehicleType_CG>
+                                            <VehicleType_CG_Name_TC>Private Passenger</VehicleType_CG_Name_TC>
+                                            <Fault_CG>atfaultchargeable</Fault_CG>
+                                            <Fault_CG_Name_TC>At fault</Fault_CG_Name_TC>
+                                        </LossHistoryEntry>
+                                    </LossHistoryEntry_CG>
+                                    <DriverAge>22</DriverAge>
+                                    <DriverTrainingAuto_CG />
+                                    <DrvrTrngMotorcycle_CG />
+                                    <Contact type="Contact" publicID="kaka:13004">
+                                        <DisplayNames>
+                                            <DisplayName OccupationType_Code_CG="ETU">JILAUTO SIXTWONINE</DisplayName>
+                                        </DisplayNames>
+                                        <PrintInternalMarketingInd_CG>true</PrintInternalMarketingInd_CG>
+                                        <PrintExternalMarketingInd_CG>true</PrintExternalMarketingInd_CG>
+                                        <PrintPolicyDocumentsOnly_CG />
+                                        <PrintOtherInsuranceProducts_CG />
+                                        <Address type="Address" publicID="kaka:42004">
+                                            <AddressLine1>36 COOKS RD</AddressLine1>
+                                            <BatchGeocode>false</BatchGeocode>
+                                            <City>SEGUIN</City>
+                                            <PostalCode>P2A 2W8</PostalCode>
+                                            <State>ON</State>
+                                            <State_Name_TC>Ontario</State_Name_TC>
+                                            <Country>CA</Country>
+                                            <Country_Name_TC>Canada</Country_Name_TC>
+                                        </Address>
+                                        <MaritalStatus>S</MaritalStatus>
+                                        <MaritalStatus_Name_TC>Single</MaritalStatus_Name_TC>
+                                    </Contact>
+                                </PolicyDriver_CG>
+                            </VehicleDriver_CG>
+                            <Coverable type="IRAutoVehicle_CG" publicID="kaka:51616" fixedID="51616">
+                                <ReferenceDateInternal>2020-12-01T00:00:00</ReferenceDateInternal>
+                                <NumberOfPPVehicles_CG>1</NumberOfPPVehicles_CG>
+                                <NumberOfPPOperators_CG>1</NumberOfPPOperators_CG>
+                                <HighestRatedPosition_CG>1</HighestRatedPosition_CG>
+                                <MatchingAccAssVehTypeCd_CG>P</MatchingAccAssVehTypeCd_CG>
+                                <RateDate_CG>2019-11-08T11:44:48</RateDate_CG>
+                                <AccidentForgivenessEligible_CG>false</AccidentForgivenessEligible_CG>
+                                <RateBookCode_CG>ir_on_cgic_ratebook</RateBookCode_CG>
+                                <RateBookEditon_CG>R49.5</RateBookEditon_CG>
+                                <NewItemThisTerm_CG>true</NewItemThisTerm_CG>
+                                <RatingStream_CG>privatepassenger</RatingStream_CG>
+                                <RatingStream_CG_Name_TC>Private Passenger</RatingStream_CG_Name_TC>
+                                <InitialCoveragesCreated>true</InitialCoveragesCreated>
+                                <InitialExclusionsCreated>true</InitialExclusionsCreated>
+                                <InitialConditionsCreated>true</InitialConditionsCreated>
+                                <CoverableReferenceDate>2020-12-01T00:00:00</CoverableReferenceDate>
+                                <EffectiveDate>2020-12-01T00:01:00</EffectiveDate>
+                                <ExpirationDate>2021-12-01T00:01:00</ExpirationDate>
+                                <ChangeType>slice</ChangeType>
+                                <ChangeType_Name_TC>Slice</ChangeType_Name_TC>
+                            </Coverable>
+                            <CoverageGroup grouping="IRsectionLiability" order="1100" displayOrder="1100">
+                                <PrintCoverage patternCode="covIRLiability" grouping="IRsectionLiability" DisplayOrder="1050" type="IRAutoVehicleCov_CG" publicID="kaka:47998" fixedID="47998">
+                                    <PrintCode>covIRLiability</PrintCode>
+                                    <PrintSettlementOption patternCode="0">0</PrintSettlementOption>
+                                    <PrintCoinsurance patternCode="no-print">0</PrintCoinsurance>
+                                    <PrintLimit patternCode="IRLiabilityLimit">2000000</PrintLimit>
+                                    <CovReferenceDate>2020-12-01T00:00:00</CovReferenceDate>
+                                    <PrintRefundablePremium>Null</PrintRefundablePremium>
+                                    <PerOnceOccurance>false</PerOnceOccurance>
+                                    <PrintPremium patternCode="Premium">1473.00</PrintPremium>
+                                    <PrintPremiumDetails>
+                                        <CovPremLineItem>
+                                            <DriverAssignment_CG>principaldriver</DriverAssignment_CG>
+                                            <CovCode>covIRPropertyDamage</CovCode>
+                                            <AnnualizedPremium>13</AnnualizedPremium>
+                                            <ActualAmount>13</ActualAmount>
+                                            <FullTermPremium>13</FullTermPremium>
+                                        </CovPremLineItem>
+                                        <CovPremLineItem>
+                                            <DriverAssignment_CG>principaldriver</DriverAssignment_CG>
+                                            <CovCode>covIRLiability</CovCode>
+                                            <AnnualizedPremium>1460</AnnualizedPremium>
+                                            <ActualAmount>1460</ActualAmount>
+                                            <FullTermPremium>1460</FullTermPremium>
+                                        </CovPremLineItem>
+                                    </PrintPremiumDetails>
+                                    <PrintExtension>
+                                        <PrintCode>IRLiabilityBI</PrintCode>
+                                        <Value>1</Value>
+                                        <Code>included</Code>
+                                        <DebugPatternCode>IRLiabilityBI</DebugPatternCode>
+                                    </PrintExtension>
+                                    <PrintExtension>
+                                        <PrintCode>IRLiabilityPD</PrintCode>
+                                        <Value>1</Value>
+                                        <Code>included</Code>
+                                        <DebugPatternCode>IRLiabilityPD</DebugPatternCode>
+                                    </PrintExtension>
+                                </PrintCoverage>
+                            </CoverageGroup>
+                            <CoverageGroup grouping="IRsectionAccidentBenefits" order="1300" displayOrder="1300">
+                                <PrintCoverage patternCode="covIRAccidentBenefits" grouping="IRsectionAccidentBenefits" DisplayOrder="1100" type="IRAutoVehicleCov_CG" publicID="kaka:48000" fixedID="48000">
+                                    <PrintCode>covIRAccidentBenefits</PrintCode>
+                                    <PrintSettlementOption patternCode="0">0</PrintSettlementOption>
+                                    <PrintCoinsurance patternCode="no-print">0</PrintCoinsurance>
+                                    <PrintLimit patternCode="no-print">0</PrintLimit>
+                                    <CovReferenceDate>2020-12-01T00:00:00</CovReferenceDate>
+                                    <PrintRefundablePremium>Null</PrintRefundablePremium>
+                                    <PerOnceOccurance>false</PerOnceOccurance>
+                                    <PrintPremium patternCode="Premium">428.00</PrintPremium>
+                                    <PrintPremiumDetails>
+                                        <CovPremLineItem>
+                                            <DriverAssignment_CG>principaldriver</DriverAssignment_CG>
+                                            <CovCode>covIRAccidentBenefits</CovCode>
+                                            <AnnualizedPremium>428</AnnualizedPremium>
+                                            <ActualAmount>428</ActualAmount>
+                                            <FullTermPremium>428</FullTermPremium>
+                                        </CovPremLineItem>
+                                    </PrintPremiumDetails>
+                                </PrintCoverage>
+                            </CoverageGroup>
+                            <CoverageGroup grouping="IRsectionUninsuredAuto" order="1400" displayOrder="1400">
+                                <PrintCoverage patternCode="covIRUninsuredAuto" grouping="IRsectionUninsuredAuto" DisplayOrder="1100" type="IRAutoVehicleCov_CG" publicID="kaka:48001" fixedID="48001">
+                                    <PrintCode>covIRUninsuredAuto</PrintCode>
+                                    <PrintSettlementOption patternCode="0">0</PrintSettlementOption>
+                                    <PrintCoinsurance patternCode="no-print">0</PrintCoinsurance>
+                                    <PrintLimit patternCode="no-print">0</PrintLimit>
+                                    <CovReferenceDate>2020-12-01T00:00:00</CovReferenceDate>
+                                    <PrintRefundablePremium>Null</PrintRefundablePremium>
+                                    <PerOnceOccurance>false</PerOnceOccurance>
+                                    <PrintPremium patternCode="Premium">11.00</PrintPremium>
+                                    <PrintPremiumDetails>
+                                        <CovPremLineItem>
+                                            <DriverAssignment_CG>principaldriver</DriverAssignment_CG>
+                                            <CovCode>covIRUninsuredAuto</CovCode>
+                                            <AnnualizedPremium>11</AnnualizedPremium>
+                                            <ActualAmount>11</ActualAmount>
+                                            <FullTermPremium>11</FullTermPremium>
+                                        </CovPremLineItem>
+                                    </PrintPremiumDetails>
+                                </PrintCoverage>
+                            </CoverageGroup>
+                            <CoverageGroup grouping="IRsectionDCPD" order="1450" displayOrder="1450">
+                                <PrintCoverage patternCode="covIRDCPD" grouping="IRsectionDCPD" DisplayOrder="1100" type="IRAutoVehicleCov_CG" publicID="kaka:47999" fixedID="47999">
+                                    <PrintCode>covIRDCPD</PrintCode>
+                                    <PrintSettlementOption patternCode="0">0</PrintSettlementOption>
+                                    <PrintCoinsurance patternCode="no-print">0</PrintCoinsurance>
+                                    <PrintDeductible patternCode="IRDCPDDeductible">0</PrintDeductible>
+                                    <PrintLimit patternCode="no-print">0</PrintLimit>
+                                    <CovReferenceDate>2020-12-01T00:00:00</CovReferenceDate>
+                                    <PrintRefundablePremium>Null</PrintRefundablePremium>
+                                    <PerOnceOccurance>false</PerOnceOccurance>
+                                    <PrintPremium patternCode="Premium">300.00</PrintPremium>
+                                    <PrintPremiumDetails>
+                                        <CovPremLineItem>
+                                            <DriverAssignment_CG>principaldriver</DriverAssignment_CG>
+                                            <CovCode>covIRDCPD</CovCode>
+                                            <AnnualizedPremium>300</AnnualizedPremium>
+                                            <ActualAmount>300</ActualAmount>
+                                            <FullTermPremium>300</FullTermPremium>
+                                        </CovPremLineItem>
+                                    </PrintPremiumDetails>
+                                </PrintCoverage>
+                            </CoverageGroup>
+                            <CoverageGroup grouping="IRsectionLossorDamage" order="1600" displayOrder="1600">
+                                <PrintCoverage patternCode="covIRCollision" grouping="IRsectionLossorDamage" DisplayOrder="1100" type="IRAutoVehicleCov_CG" publicID="kaka:48002" fixedID="48002">
+                                    <PrintCode>covIRCollision</PrintCode>
+                                    <PrintSettlementOption patternCode="0">0</PrintSettlementOption>
+                                    <PrintCoinsurance patternCode="no-print">0</PrintCoinsurance>
+                                    <PrintDeductible patternCode="IRCollisionDeductible">500</PrintDeductible>
+                                    <PrintLimit patternCode="no-print">0</PrintLimit>
+                                    <CovReferenceDate>2020-12-01T00:00:00</CovReferenceDate>
+                                    <PrintRefundablePremium>Null</PrintRefundablePremium>
+                                    <PerOnceOccurance>false</PerOnceOccurance>
+                                    <PrintPremium patternCode="Premium">480.00</PrintPremium>
+                                    <PrintPremiumDetails>
+                                        <CovPremLineItem>
+                                            <DriverAssignment_CG>principaldriver</DriverAssignment_CG>
+                                            <CovCode>covIRCollision</CovCode>
+                                            <AnnualizedPremium>480</AnnualizedPremium>
+                                            <ActualAmount>480</ActualAmount>
+                                            <FullTermPremium>480</FullTermPremium>
+                                        </CovPremLineItem>
+                                    </PrintPremiumDetails>
+                                </PrintCoverage>
+                                <PrintCoverage patternCode="covIRComprehensive" grouping="IRsectionLossorDamage" DisplayOrder="1200" type="IRAutoVehicleCov_CG" publicID="kaka:48003" fixedID="48003">
+                                    <PrintCode>covIRComprehensive</PrintCode>
+                                    <PrintSettlementOption patternCode="0">0</PrintSettlementOption>
+                                    <PrintCoinsurance patternCode="no-print">0</PrintCoinsurance>
+                                    <PrintDeductible patternCode="IRComprehensiveDeductible">500</PrintDeductible>
+                                    <PrintLimit patternCode="no-print">0</PrintLimit>
+                                    <CovReferenceDate>2020-12-01T00:00:00</CovReferenceDate>
+                                    <PrintRefundablePremium>Null</PrintRefundablePremium>
+                                    <PerOnceOccurance>false</PerOnceOccurance>
+                                    <PrintPremium patternCode="Premium">102.00</PrintPremium>
+                                    <PrintPremiumDetails>
+                                        <CovPremLineItem>
+                                            <DriverAssignment_CG>principaldriver</DriverAssignment_CG>
+                                            <CovCode>covIRComprehensive</CovCode>
+                                            <AnnualizedPremium>102</AnnualizedPremium>
+                                            <ActualAmount>102</ActualAmount>
+                                            <FullTermPremium>102</FullTermPremium>
+                                        </CovPremLineItem>
+                                    </PrintPremiumDetails>
+                                </PrintCoverage>
+                            </CoverageGroup>
+                            <CoverageGroup grouping="IRsectionPolicyChgForms" order="1900" displayOrder="1900">
+                                <PrintCoverage patternCode="covIRFamilyProtection_ON" grouping="IRsectionPolicyChgForms" DisplayOrder="1000" type="IRAutoVehicleCov_CG" publicID="kaka:48004" fixedID="48004">
+                                    <PrintCode>covIRFamilyProtection_ON</PrintCode>
+                                    <PrintSettlementOption patternCode="0">0</PrintSettlementOption>
+                                    <PrintCoinsurance patternCode="no-print">0</PrintCoinsurance>
+                                    <PrintLimit patternCode="IRFamilyProtectionONLimit">2000000</PrintLimit>
+                                    <CovReferenceDate>2020-12-01T00:00:00</CovReferenceDate>
+                                    <PrintRefundablePremium>Null</PrintRefundablePremium>
+                                    <PerOnceOccurance>false</PerOnceOccurance>
+                                    <PrintPremium patternCode="Premium">23.00</PrintPremium>
+                                    <PrintPremiumDetails>
+                                        <CovPremLineItem>
+                                            <DriverAssignment_CG>principaldriver</DriverAssignment_CG>
+                                            <CovCode>covIRFamilyProtection_ON</CovCode>
+                                            <AnnualizedPremium>23</AnnualizedPremium>
+                                            <ActualAmount>23</ActualAmount>
+                                            <FullTermPremium>23</FullTermPremium>
+                                        </CovPremLineItem>
+                                    </PrintPremiumDetails>
+                                </PrintCoverage>
+                                <PrintCoverage patternCode="covIRLossOfUse_ON" grouping="IRsectionPolicyChgForms" DisplayOrder="3000" type="IRAutoVehicleCov_CG" publicID="kaka:48005" fixedID="48005">
+                                    <PrintCode>covIRLossOfUse_ON</PrintCode>
+                                    <PrintSettlementOption patternCode="0">0</PrintSettlementOption>
+                                    <PrintCoinsurance patternCode="no-print">0</PrintCoinsurance>
+                                    <PrintLimit patternCode="IRLossOfUseONLimit">1200</PrintLimit>
+                                    <CovReferenceDate>2020-12-01T00:00:00</CovReferenceDate>
+                                    <PrintRefundablePremium>Null</PrintRefundablePremium>
+                                    <PerOnceOccurance>false</PerOnceOccurance>
+                                    <PrintPremium patternCode="Premium">48.00</PrintPremium>
+                                    <PrintPremiumDetails>
+                                        <CovPremLineItem>
+                                            <DriverAssignment_CG>principaldriver</DriverAssignment_CG>
+                                            <CovCode>covIRLossOfUse_ON</CovCode>
+                                            <AnnualizedPremium>48</AnnualizedPremium>
+                                            <ActualAmount>48</ActualAmount>
+                                            <FullTermPremium>48</FullTermPremium>
+                                        </CovPremLineItem>
+                                    </PrintPremiumDetails>
+                                </PrintCoverage>
+                            </CoverageGroup>
+                            <Discounts />
+                            <Surcharges />
+                            <Summary>
+                                <TotalPremium>2865</TotalPremium>
+                                <DiscountTotal>0</DiscountTotal>
+                                <SurchargeTotal>0</SurchargeTotal>
+                                <AdditionalPremium>2865</AdditionalPremium>
+                                <TotalTaxAmount>0</TotalTaxAmount>
+                                <TransactionCostRPT>2865</TransactionCostRPT>
+                                <TransactionPremiumRPT>2865</TransactionPremiumRPT>
+                                <TransactionSalesTax>0</TransactionSalesTax>
+                                <MotorizedVehiclePremium>0</MotorizedVehiclePremium>
+                                <TaxOnMotorizedVehiclePremium>0</TaxOnMotorizedVehiclePremium>
+                                <TaxablePremium>0</TaxablePremium>
+                                <Tax>0</Tax>
+                                <NonTaxablePremium>0</NonTaxablePremium>
+                                <Total>2865</Total>
+                                <CostSummary nontaxablepremium="0" taxablepremium="0" tax="0" motorizedvehiclepremium="0" motorizedvehicletax="0" />
+                            </Summary>
+                        </Vehicle_CG>
+                        <Summary>
+                            <TotalPremium>2865</TotalPremium>
+                            <DiscountTotal>0</DiscountTotal>
+                            <SurchargeTotal>0</SurchargeTotal>
+                            <AdditionalPremium>2865</AdditionalPremium>
+                            <TotalTaxAmount>0</TotalTaxAmount>
+                            <TransactionCostRPT>2865</TransactionCostRPT>
+                            <TransactionPremiumRPT>2865</TransactionPremiumRPT>
+                            <TransactionSalesTax>0</TransactionSalesTax>
+                            <MotorizedVehiclePremium>0</MotorizedVehiclePremium>
+                            <TaxOnMotorizedVehiclePremium>0</TaxOnMotorizedVehiclePremium>
+                            <TaxablePremium>0</TaxablePremium>
+                            <Tax>0</Tax>
+                            <NonTaxablePremium>0</NonTaxablePremium>
+                            <Total>2865</Total>
+                            <CostSummary nontaxablepremium="0" taxablepremium="0" tax="0" motorizedvehiclepremium="0" motorizedvehicletax="0" />
+                        </Summary>
+                    </InsuredItems>
+                    <OtherRatedDrivers />
+                    <COILayout>
+                        <CoverageGrouping>true</CoverageGrouping>
+                    </COILayout>
+                    <PolicyCoverages>
+                        <CoverageGroup grouping="IRsectionOptionalAB" order="1350" displayOrder="1350">
+                            <PrintCoverage patternCode="covIRIncomeReplace" grouping="IRsectionOptionalAB" DisplayOrder="1100" type="IRAutoLineCov_CG" publicID="kaka:28785" fixedID="28785">
+                                <PrintCode>covIRIncomeReplace</PrintCode>
+                                <PrintSettlementOption patternCode="0">0</PrintSettlementOption>
+                                <PrintCoinsurance patternCode="no-print">0</PrintCoinsurance>
+                                <PrintLimit patternCode="IRIncomeReplaceOption">0</PrintLimit>
+                                <CovReferenceDate>2020-12-01T00:00:00</CovReferenceDate>
+                                <PrintRefundablePremium>Null</PrintRefundablePremium>
+                                <PerOnceOccurance>false</PerOnceOccurance>
+                                <PrintPremium patternCode="no-print">0.0</PrintPremium>
+                                <PrintExtension>
+                                    <PrintCode>IRIncomeReplaceOption</PrintCode>
+                                    <Value>0</Value>
+                                    <Code>declined</Code>
+                                    <DebugPatternCode>IRIncomeReplaceOption</DebugPatternCode>
+                                </PrintExtension>
+                            </PrintCoverage>
+                            <PrintCoverage patternCode="covIRCaregiver" grouping="IRsectionOptionalAB" DisplayOrder="1200" type="IRAutoLineCov_CG" publicID="kaka:28786" fixedID="28786">
+                                <PrintCode>covIRCaregiver</PrintCode>
+                                <PrintSettlementOption patternCode="0">0</PrintSettlementOption>
+                                <PrintCoinsurance patternCode="no-print">0</PrintCoinsurance>
+                                <PrintLimit patternCode="no-print">0</PrintLimit>
+                                <CovReferenceDate>2020-12-01T00:00:00</CovReferenceDate>
+                                <PrintRefundablePremium>Null</PrintRefundablePremium>
+                                <PerOnceOccurance>false</PerOnceOccurance>
+                                <PrintPremium patternCode="no-print">0.0</PrintPremium>
+                                <PrintExtension>
+                                    <PrintCode>IRCaregiverOption</PrintCode>
+                                    <Value>0</Value>
+                                    <Code>declined</Code>
+                                    <DebugPatternCode>IRCaregiverOption</DebugPatternCode>
+                                </PrintExtension>
+                            </PrintCoverage>
+                            <PrintCoverage patternCode="covIRMedRehabAttR16" grouping="IRsectionOptionalAB" DisplayOrder="1310" type="IRAutoLineCov_CG" publicID="kaka:28788" fixedID="28788">
+                                <PrintCode>covIRMedRehabAttendantR16</PrintCode>
+                                <PrintSettlementOption patternCode="0">0</PrintSettlementOption>
+                                <PrintCoinsurance patternCode="no-print">0</PrintCoinsurance>
+                                <PrintLimit patternCode="no-print">0</PrintLimit>
+                                <CovReferenceDate>2020-12-01T00:00:00</CovReferenceDate>
+                                <PrintRefundablePremium>Null</PrintRefundablePremium>
+                                <PerOnceOccurance>false</PerOnceOccurance>
+                                <PrintPremium patternCode="no-print">0.0</PrintPremium>
+                                <PrintExtension>
+                                    <PrintCode>IRMedRehabAttR16Option</PrintCode>
+                                    <Value>0</Value>
+                                    <Code>declined</Code>
+                                    <DebugPatternCode>IRMedRehabAttR16Option</DebugPatternCode>
+                                </PrintExtension>
+                            </PrintCoverage>
+                            <PrintCoverage patternCode="covIRMedRehabAttendantR16" grouping="IRsectionOptionalAB" DisplayOrder="1310" type="IRAutoLineCov_CG" publicID="kaka:28787" fixedID="28787">
+                                <PrintCode>covIRMedRehabAttendantR16</PrintCode>
+                                <PrintSettlementOption patternCode="0">0</PrintSettlementOption>
+                                <PrintCoinsurance patternCode="no-print">0</PrintCoinsurance>
+                                <PrintLimit patternCode="no-print">0</PrintLimit>
+                                <CovReferenceDate>2020-12-01T00:00:00</CovReferenceDate>
+                                <PrintRefundablePremium>Null</PrintRefundablePremium>
+                                <PerOnceOccurance>false</PerOnceOccurance>
+                                <PrintPremium patternCode="no-print">0.0</PrintPremium>
+                                <PrintExtension>
+                                    <PrintCode>IRMedRehabAttendantR16Option</PrintCode>
+                                    <Value>0</Value>
+                                    <Code>declined</Code>
+                                    <DebugPatternCode>IRMedRehabAttendantR16Option</DebugPatternCode>
+                                </PrintExtension>
+                            </PrintCoverage>
+                            <PrintCoverage patternCode="covIROptionalCatastrophicImpairment" grouping="IRsectionOptionalAB" DisplayOrder="1410" type="IRAutoLineCov_CG" publicID="kaka:28789" fixedID="28789">
+                                <PrintCode>covIROptionalCatastrophicImpairment</PrintCode>
+                                <PrintSettlementOption patternCode="0">0</PrintSettlementOption>
+                                <PrintCoinsurance patternCode="no-print">0</PrintCoinsurance>
+                                <PrintLimit patternCode="no-print">0</PrintLimit>
+                                <CovReferenceDate>2020-12-01T00:00:00</CovReferenceDate>
+                                <PrintRefundablePremium>Null</PrintRefundablePremium>
+                                <PerOnceOccurance>false</PerOnceOccurance>
+                                <PrintPremium patternCode="no-print">0.0</PrintPremium>
+                                <PrintExtension>
+                                    <PrintCode>IROptionalCatastrophicImpairmentOption</PrintCode>
+                                    <Value>0</Value>
+                                    <Code>declined</Code>
+                                    <DebugPatternCode>IROptionalCatastrophicImpairmentOption</DebugPatternCode>
+                                </PrintExtension>
+                            </PrintCoverage>
+                            <PrintCoverage patternCode="covIRDeathFuneral" grouping="IRsectionOptionalAB" DisplayOrder="1600" type="IRAutoLineCov_CG" publicID="kaka:28790" fixedID="28790">
+                                <PrintCode>covIRDeathFuneral</PrintCode>
+                                <PrintSettlementOption patternCode="0">0</PrintSettlementOption>
+                                <PrintCoinsurance patternCode="no-print">0</PrintCoinsurance>
+                                <PrintLimit patternCode="no-print">0</PrintLimit>
+                                <CovReferenceDate>2020-12-01T00:00:00</CovReferenceDate>
+                                <PrintRefundablePremium>Null</PrintRefundablePremium>
+                                <PerOnceOccurance>false</PerOnceOccurance>
+                                <PrintPremium patternCode="no-print">0.0</PrintPremium>
+                                <PrintExtension>
+                                    <PrintCode>IRDeathFuneralOption</PrintCode>
+                                    <Value>0</Value>
+                                    <Code>declined</Code>
+                                    <DebugPatternCode>IRDeathFuneralOption</DebugPatternCode>
+                                </PrintExtension>
+                            </PrintCoverage>
+                            <PrintCoverage patternCode="covIRDependantCare" grouping="IRsectionOptionalAB" DisplayOrder="1700" type="IRAutoLineCov_CG" publicID="kaka:28791" fixedID="28791">
+                                <PrintCode>covIRDependantCare</PrintCode>
+                                <PrintSettlementOption patternCode="0">0</PrintSettlementOption>
+                                <PrintCoinsurance patternCode="no-print">0</PrintCoinsurance>
+                                <PrintLimit patternCode="no-print">0</PrintLimit>
+                                <CovReferenceDate>2020-12-01T00:00:00</CovReferenceDate>
+                                <PrintRefundablePremium>Null</PrintRefundablePremium>
+                                <PerOnceOccurance>false</PerOnceOccurance>
+                                <PrintPremium patternCode="no-print">0.0</PrintPremium>
+                                <PrintExtension>
+                                    <PrintCode>IRDependantCareOption</PrintCode>
+                                    <Value>0</Value>
+                                    <Code>declined</Code>
+                                    <DebugPatternCode>IRDependantCareOption</DebugPatternCode>
+                                </PrintExtension>
+                            </PrintCoverage>
+                            <PrintCoverage patternCode="covIRIndexation" grouping="IRsectionOptionalAB" DisplayOrder="1800" type="IRAutoLineCov_CG" publicID="kaka:28792" fixedID="28792">
+                                <PrintCode>covIRIndexation</PrintCode>
+                                <PrintSettlementOption patternCode="0">0</PrintSettlementOption>
+                                <PrintCoinsurance patternCode="no-print">0</PrintCoinsurance>
+                                <PrintLimit patternCode="no-print">0</PrintLimit>
+                                <CovReferenceDate>2020-12-01T00:00:00</CovReferenceDate>
+                                <PrintRefundablePremium>Null</PrintRefundablePremium>
+                                <PerOnceOccurance>false</PerOnceOccurance>
+                                <PrintPremium patternCode="no-print">0.0</PrintPremium>
+                                <PrintExtension>
+                                    <PrintCode>IRIndexationOption</PrintCode>
+                                    <Value>0</Value>
+                                    <Code>declined</Code>
+                                    <DebugPatternCode>IRIndexationOption</DebugPatternCode>
+                                </PrintExtension>
+                            </PrintCoverage>
+                        </CoverageGroup>
+                        <CoverageGroup grouping="IRsectionPolicyChgForms" order="1900" displayOrder="1900">
+                            <PrintCoverage patternCode="covIRAccidentForgiveness" grouping="IRsectionPolicyChgForms" DisplayOrder="1050" type="IRAutoLineCov_CG" publicID="kaka:28784" fixedID="28784">
+                                <PrintCode>covIRAccidentForgiveness</PrintCode>
+                                <PrintSettlementOption patternCode="0">0</PrintSettlementOption>
+                                <PrintCoinsurance patternCode="no-print">0</PrintCoinsurance>
+                                <PrintLimit patternCode="no-print">0</PrintLimit>
+                                <CovReferenceDate>2020-12-01T00:00:00</CovReferenceDate>
+                                <PrintRefundablePremium>Null</PrintRefundablePremium>
+                                <PerOnceOccurance>false</PerOnceOccurance>
+                                <PrintPremium patternCode="no-print">0.0</PrintPremium>
+                                <PrintExtension>
+                                    <PrintCode>IRAccidentForgivenessOption</PrintCode>
+                                    <Value>1</Value>
+                                    <Code>ineligible</Code>
+                                    <DebugPatternCode>IRAccidentForgivenessOption</DebugPatternCode>
+                                </PrintExtension>
+                            </PrintCoverage>
+                        </CoverageGroup>
+                        <Discounts />
+                        <Surcharges />
+                        <Summary>
+                            <TotalPremium>0</TotalPremium>
+                            <DiscountTotal>0</DiscountTotal>
+                            <SurchargeTotal>0</SurchargeTotal>
+                            <AdditionalPremium>0</AdditionalPremium>
+                            <TotalTaxAmount>0</TotalTaxAmount>
+                            <TransactionCostRPT>0</TransactionCostRPT>
+                            <TransactionPremiumRPT>0</TransactionPremiumRPT>
+                            <TransactionSalesTax>0</TransactionSalesTax>
+                            <MotorizedVehiclePremium>0</MotorizedVehiclePremium>
+                            <TaxOnMotorizedVehiclePremium>0</TaxOnMotorizedVehiclePremium>
+                            <TaxablePremium>0</TaxablePremium>
+                            <Tax>0</Tax>
+                            <NonTaxablePremium>0</NonTaxablePremium>
+                            <Total>0</Total>
+                            <CostSummary nontaxablepremium="0" taxablepremium="0" tax="0" motorizedvehiclepremium="0" motorizedvehicletax="0" />
+                        </Summary>
+                    </PolicyCoverages>
+                    <Summary>
+                        <TotalPolicyPremium>2865</TotalPolicyPremium>
+                        <DiscountTotal>0</DiscountTotal>
+                        <SurchargeTotal>0</SurchargeTotal>
+                        <AdditionalPremium>2865</AdditionalPremium>
+                        <TotalTaxAmount>0</TotalTaxAmount>
+                        <TransactionCostRPT>2865</TransactionCostRPT>
+                        <TransactionPremiumRPT>2865</TransactionPremiumRPT>
+                        <TransactionSalesTax>0</TransactionSalesTax>
+                        <TotalPremium>2865</TotalPremium>
+                        <MotorizedVehiclePremium>0</MotorizedVehiclePremium>
+                        <TaxOnMotorizedVehiclePremium>0</TaxOnMotorizedVehiclePremium>
+                        <TaxablePremium>0</TaxablePremium>
+                        <Tax>0</Tax>
+                        <NonTaxablePremium>0</NonTaxablePremium>
+                        <Total>2865</Total>
+                        <CostSummary nontaxablepremium="0" taxablepremium="0" tax="0" motorizedvehiclepremium="0" motorizedvehicletax="0" />
+                    </Summary>
+                    <StandardABVersion>2016</StandardABVersion>
+                </PolicyPeriod>
+            </PreviousPolicyPeriod>
+        </DocProdDocument_CG>
+    </CoopTxn>
+</CoopMessage>

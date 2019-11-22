@@ -1,0 +1,2 @@
+module cooperators_xml {
+}
